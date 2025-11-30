@@ -37,16 +37,16 @@ CATEGORIES = [
 
 # Category descriptions for prompts
 CATEGORY_DESCRIPTIONS = {
-    "Transactions": "Commercial transactions, buying, selling, orders, shipments, payments, debts, credits",
-    "Behavior of Associates": "Comments on behavior, reliability, trustworthiness, or conduct of business associates, partners, or agents",
-    "Information": "Market information, prices, news about goods, trade conditions, general business intelligence",
-    "Correspondence": "Matters related to letter writing itself, requests for letters, acknowledgments of receipt, postal matters",
-    "Travels": "Travel plans, journeys, routes, arrival/departure information, travel conditions",
-    "Personal, Familial, Communal News": "Personal news, family matters, community events, social information unrelated to business",
-    "Accounts": "Financial accounts, bookkeeping, detailed financial records, account settlements",
-    "Advice": "Requests for or giving of advice, counsel, recommendations",
-    "Legal Actions": "Legal matters, disputes, court cases, legal procedures, contracts",
-    "Government Relations": "Interactions with government officials, taxes, regulations, official matters"
+    "Transactions": "Reports on actions taken, references to planned actions, orders for actions, or explanations for actions that had been delayed or not taken, purchase, collection, processing, transport, storage or sale of both merchandise and money",
+    "Behavior of Associates": "Discussions of the behavior of merchants, whether the writer himself, the recipient, or third parties, merchants are assessing each other’sconduct – whether past, present, or prospective",
+    "Information": "Market information, prices, reports on particular commodities – reports that are a mix of market prices and notes on current or expected demand, or local exchange rates, or the fulfillment of an order, ship movements – arrivals, expected arrivals, stowing, departures, convoying, etc. general reports on conditions: they might comment on the general state of the market, discuss the actions of important groups in the market (whether reporting on the demand of locals, the arrival of groups from elsewhere with goods for sale, or demands that would change the dynamics of the local market), tell of political events that might affect market conditions, and report on famine and plague",
+    "Correspondence": "Address the current state of correspondence – whether one has received a letter since the last time one wrote, recriminations over a correspondent’s neglect, requests for intercession in managing correspondence with third parties, and attempts to find excuses for absent letters",
+    "Travels": "Tales of their travels, particularly the various mishaps that befell them,  horrible weather, incompetent ship captains, pirate attacks, nights spent at odd shelters, and the like",
+    "Personal, Familial, Communal News": "Communal issues, familial and personal affairs, and illness",
+    "Accounts": "Geniza merchantsrequest accounts, note that they are making final accountings that will be sent, and acknowledge the receipt of other accounts",
+    "Advice": "Business advice on the best ways to buy goods, the relative difficulty of various tasks, and even the balance between business and personal time, or  brief suggestions based on current market conditions",
+    "Legal Actions": "Discussions of formal legal action – threatening a suit, sending powers of attorney, requesting provision of documents for an upcoming action",
+    "Government Relations": "Discussions of actions of government or of any officer that directly intervene in the market or trade. It also includes any mention of a merchant’s dealings with government officers, whether it is a matter of negotiating customs or the more serious problem of appearing before the authorities after being denounced for failing to declare goods"
 }
 
 
@@ -101,6 +101,7 @@ def create_segmentation_prompt(letter_content: str) -> str:
     # Truncate very long content to avoid token limits
     max_content_length = 50000  # Leave room for prompt and response
     if len(letter_content) > max_content_length:
+        raise Exception("Content is too long");
         letter_content = letter_content[:max_content_length] + "\n[... content truncated ...]"
     
     return f"""You are analyzing a Geniza mercantile letter written in Judeo-Arabic (Arabic written in Hebrew script).
