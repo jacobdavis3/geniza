@@ -1,0 +1,26 @@
+{
+  "claude35": {
+    "Transactions": 0.28382083691573734,
+    "Behavior of Associates": 0.08484391557168211,
+    "Information": 0.0478489300276346,
+    "Correspondence": 0.3262375121199429,
+    "Travels": 0.03524049843738232,
+    "Personal, Familial, Communal News": 0.16159205230364584,
+    "Accounts": 0.030213611602229556,
+    "Advice": 0.0062892363646196514,
+    "Legal Actions": 0.019041529334022977,
+    "Government Relations": 0.0044604533167118005
+  },
+  "gpt5": {
+    "Transactions": 0.3516525492089191,
+    "Behavior of Associates": 0.034421134413153455,
+    "Information": 0.0903305138681701,
+    "Correspondence": 0.21311402004526037,
+    "Travels": 0.03385889486762026,
+    "Personal, Familial, Communal News": 0.2178731784442235,
+    "Accounts": 0.00893939453906321,
+    "Advice": 0.00666542915228905,
+    "Legal Actions": 0.017594440484693094,
+    "Government Relations": 0.02537434766016019
+  }
+}

@@ -38,7 +38,7 @@ CATEGORIES = [
 # Category descriptions for prompts
 CATEGORY_DESCRIPTIONS = {
     "Transactions": "Reports on actions taken, references to planned actions, orders for actions, or explanations for actions that had been delayed or not taken, purchase, collection, processing, transport, storage or sale of both merchandise and money",
-    "Behavior of Associates": "Discussions of the behavior of merchants, whether the writer himself, the recipient, or third parties, merchants are assessing each other’sconduct – whether past, present, or prospective",
+    "Behavior of Associates": "Discussions of the behavior of merchants, whether the writer himself, the recipient, or third parties, merchants are assessing each other’s conduct – whether past, present, or prospective",
     "Information": "Market information, prices, reports on particular commodities – reports that are a mix of market prices and notes on current or expected demand, or local exchange rates, or the fulfillment of an order, ship movements – arrivals, expected arrivals, stowing, departures, convoying, etc. general reports on conditions: they might comment on the general state of the market, discuss the actions of important groups in the market (whether reporting on the demand of locals, the arrival of groups from elsewhere with goods for sale, or demands that would change the dynamics of the local market), tell of political events that might affect market conditions, and report on famine and plague",
     "Correspondence": "Address the current state of correspondence – whether one has received a letter since the last time one wrote, recriminations over a correspondent’s neglect, requests for intercession in managing correspondence with third parties, and attempts to find excuses for absent letters",
     "Travels": "Tales of their travels, particularly the various mishaps that befell them,  horrible weather, incompetent ship captains, pirate attacks, nights spent at odd shelters, and the like",
@@ -564,7 +564,7 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="nahray_1-50_gpt.json",
+        default="4726_gpt.json",
         help="Output JSON file path (default: geniza_codings.json)"
     )
     

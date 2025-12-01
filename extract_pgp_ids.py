@@ -110,7 +110,7 @@ def extract_all_pgp_ids(base_url):
     print(f"Total results reported: {total_results}")
     
     # There are 8 pages total
-    total_pages = 8
+    total_pages = 4
     print(f"Fetching all {total_pages} pages...")
     
     # Fetch all remaining pages (2 through 8)
@@ -132,7 +132,7 @@ def extract_all_pgp_ids(base_url):
 
 def main():
     # The search URL
-    search_url = "https://geniza.princeton.edu/en/documents/?mode=general&q=Nahray&docdate_0=&docdate_1=&has_transcription=on&doctype=Letter&sort=relevance"
+    search_url = "https://geniza.princeton.edu/en/documents/?mode=general&q=description%3A%22trade%22&docdate_0=&docdate_1=&has_transcription=on&doctype=Letter&sort=relevance&page=1"
     
     print(f"Extracting PGP IDs from: {search_url}")
     print("=" * 60)
@@ -143,7 +143,7 @@ def main():
     print(f"\nTotal unique PGP IDs found: {len(pgp_ids)}")
     
     # Save to file
-    output_file = "nahray_pgp_ids.txt"
+    output_file = "trade_letter_pgp_ids.txt"
     with open(output_file, 'w') as f:
         for pgp_id in pgp_ids:
             f.write(f"{pgp_id}\n")
@@ -151,7 +151,7 @@ def main():
     print(f"\nSaved PGP IDs to {output_file}")
     
     # Also save as JSON for easy programmatic access
-    json_file = "nahray_pgp_ids.json"
+    json_file = "trade_letter_pgp_ids.json"
     with open(json_file, 'w') as f:
         json.dump(pgp_ids, f, indent=2)
     
