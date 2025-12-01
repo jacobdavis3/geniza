@@ -381,15 +381,18 @@ def parse_json_response(response: str) -> Optional[Union[dict, list]]:
         return None
 
 
-def segment_letter(model_name: str, letter_content: str) -> List[Dict]:
+def segment_letter(model_name: str, letter_content: str, model_map: Dict[str, str] = None) -> List[Dict]:
     """Segment a letter using the specified AI model."""
     prompt = create_segmentation_prompt(letter_content)
     
+    # Map short name to actual API model name if mapping provided
+    api_model_name = model_map.get(model_name, model_name) if model_map else model_name
+    
     # Route to appropriate API (segmentation returns arrays, so no JSON mode)
     if model_name.startswith("gpt"):
-        response = call_openai(model_name, prompt, use_json_mode=False)
+        response = call_openai(api_model_name, prompt, use_json_mode=False)
     elif model_name.startswith("claude"):
-        response = call_anthropic(model_name, prompt)
+        response = call_anthropic(model_name, prompt)  # Anthropic uses its own mapping
     elif model_name == "gemini":
         response = call_gemini(prompt)
     else:
@@ -414,15 +417,18 @@ def segment_letter(model_name: str, letter_content: str) -> List[Dict]:
         return []
 
 
-def code_segment(model_name: str, segment_text: str, mode: str) -> List[str]:
+def code_segment(model_name: str, segment_text: str, mode: str, model_map: Dict[str, str] = None) -> List[str]:
     """Code a segment using the specified AI model."""
     prompt = create_coding_prompt(segment_text, mode)
     
+    # Map short name to actual API model name if mapping provided
+    api_model_name = model_map.get(model_name, model_name) if model_map else model_name
+    
     # Route to appropriate API (coding returns objects, so use JSON mode for OpenAI)
     if model_name.startswith("gpt"):
-        response = call_openai(model_name, prompt, use_json_mode=True)
+        response = call_openai(api_model_name, prompt, use_json_mode=True)
     elif model_name.startswith("claude"):
-        response = call_anthropic(model_name, prompt)
+        response = call_anthropic(model_name, prompt)  # Anthropic uses its own mapping
     elif model_name == "gemini":
         response = call_gemini(prompt)
     else:
@@ -558,7 +564,7 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="geniza_codings.json",
+        default="nahray_1-50_gpt.json",
         help="Output JSON file path (default: geniza_codings.json)"
     )
     
@@ -577,13 +583,16 @@ def main():
     
     print(f"Processing {len(document_ids)} document(s): {document_ids}")
     
-    # Parse models
+    # Parse models - map short names to actual API model names
     available_models = {
-        "gpt4": "gpt-4",
+        "gpt5": "gpt-4o",  # Using gpt-4o as latest GPT-4 model
+        "gpt5_mini": "gpt-4o-mini",
+        "gpt4": "gpt-4o",  # Updated to use gpt-4o (latest GPT-4) - "gpt-4" doesn't exist
+        "gpt4_turbo": "gpt-4-turbo",
         "gpt35": "gpt-3.5-turbo",
-        "claude3": "claude3",
-        "claude35": "claude35",
-        "gemini": "gemini"
+        "claude3": "claude3",  # Anthropic has its own mapping in call_anthropic
+        "claude35": "claude35",  # Anthropic has its own mapping in call_anthropic
+        "gemini": "gemini"  # Gemini doesn't need mapping
     }
     
     requested_models = [m.strip() for m in args.models.split(",")]
@@ -591,9 +600,11 @@ def main():
     
     if not models_to_use:
         print("Error: No valid models specified")
+        print(f"Available models: {list(available_models.keys())}")
         sys.exit(1)
     
     print(f"Using models: {models_to_use}")
+    print(f"Model mappings: {[(m, available_models[m]) for m in models_to_use]}")
     print(f"Coding mode: {args.mode}")
     
     # Extract letters
@@ -616,7 +627,7 @@ def main():
         
         # Get segments from first model (all models will code the same segments for comparison)
         print(f"\nSegmenting letter with {models_to_use[0]}...")
-        segments = segment_letter(models_to_use[0], letter_content)
+        segments = segment_letter(models_to_use[0], letter_content, available_models)
         
         if not segments:
             print(f"Warning: No segments identified. Skipping document {doc_id}")
@@ -645,7 +656,7 @@ def main():
                         continue
                     
                     print(f"    Coding segment {i+1}/{len(segments)}...")
-                    categories = code_segment(model_name, segment_text, args.mode)
+                    categories = code_segment(model_name, segment_text, args.mode, available_models)
                     
                     start = segment.get("start_char", 0)
                     end = segment.get("end_char", start + len(segment_text))

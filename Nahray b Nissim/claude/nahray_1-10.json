@@ -1,0 +1,3678 @@
+{
+  "451": {
+    "total_characters": 5017,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.313458262350937,
+        "Behavior of Associates": 0.06927881885292447,
+        "Information": 0.10732538330494037,
+        "Correspondence": 0.504258943781942,
+        "Travels": 0.0,
+        "Personal, Familial, Communal News": 0.0056785917092561046,
+        "Accounts": 0.0,
+        "Advice": 0.0,
+        "Legal Actions": 0.0,
+        "Government Relations": 0.0
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "בש'מ'",
+          "start_char": 0,
+          "end_char": 5,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "כתאבי אטאל אללה בקאה מולאי אשיך ואדאם עזהו\nותאידהו וסעאדתהו וסלאמתהו מן אסכנדריה יום [        ]\nלח' בקי כתמה אללה עלינא ועליך באחסן כאתמה ען חאל\nסלאמה ועאפיה קרב אללה אלאשתמאע עלא אפצ'ל אל\nאחואל",
+          "start_char": 6,
+          "end_char": 215,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אעלמך יאמולאי אן קד תקדם כתאבי אליך ואעלמתך\nהאל אלג' צרה אלדי כאנת מעי אנהא כלצת ללה אלחמד",
+          "start_char": 216,
+          "end_char": 310,
+          "category": "Correspondence"
+        },
+        {
+          "text": "מנהא צורה מובסטה עליהא אסם יוסף אדוכי ותאניה\nכלטתך מעה עליהא אסמך ואסמה ותאלתה עליהא\n מכתב מן קבל מוסי אבן יחיא ומא נדרי יאמולאי\n למנהי פכתאבך יעלמני למן אצורה אלתאלתה",
+          "start_char": 311,
+          "end_char": 495,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וקד\n כאן סאלת מולאי פי כתאבי אלמתקדם אן ישתרי לי\n תאסומה בזמאמין ולאבו עמראן ולאבו אלפצ'ל",
+          "start_char": 496,
+          "end_char": 603,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד כאן אעלמני מולאי קבל ספרי אן אסתעמל\n מדאסאת ריפיה פנריד אנפאדהא",
+          "start_char": 604,
+          "end_char": 686,
+          "category": "Transactions"
+        },
+        {
+          "text": "ותשתרי לי\n רטל פלפל ורטל קרפה ודסתין ורק ודוא ביאן\n דואתי צ'אעת תכון מדורה תצלח ללכריטה",
+          "start_char": 687,
+          "end_char": 787,
+          "category": "Transactions"
+        },
+        {
+          "text": "ונחיב נסתאנף יאמולאי חאגה חאגה אלא אן יפריג\n אללה",
+          "start_char": 788,
+          "end_char": 842,
+          "category": "Transactions"
+        },
+        {
+          "text": "פלמא כאן פי יומי הדה וצל קאריב בן מוליכה\n מן לוך ודכר אן אלאמיר גובארה רד אלמרכב וגמיע\n אלתקל אלדי אנזלהו אלא ברקה ארגו אן יכון דאליך צחיח\n אסל אללה אן יגמע עלא מן כאן להו פיה שי",
+          "start_char": 843,
+          "end_char": 1032,
+          "category": "Information"
+        },
+        {
+          "text": "וקד\n [[א]] וזנת ען עקבאן קבל כרוגהו ען כרא חוגרה' סדס [      ]",
+          "start_char": 1033,
+          "end_char": 1104,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד בלגני ען אלסמך אלדי אנפדתהו מעוה ללשיך אבי סע[ד]\n אלדין קד פעל מא ישכהו וקד באללה יאמולאי שק עלי דלך //כתיר//",
+          "start_char": 1105,
+          "end_char": 1227,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "פנחיב מנך יאמולא לאלא תוכיר\nעני הדה אלחואיג\nפאני מחתתאג אליהא ומא\nנמשי אלא חאפי",
+          "start_char": 1228,
+          "end_char": 1318,
+          "category": "Transactions"
+        },
+        {
+          "text": "ותעלמני איש\nאלדי צח פי אל\nמיזר",
+          "start_char": 1319,
+          "end_char": 1354,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ומא\nכאן למול[אי]\nמן חאגא\n ישרפני בקצ'אהא",
+          "start_char": 1355,
+          "end_char": 1403,
+          "category": "Transactions"
+        },
+        {
+          "text": "ותכוץ עני רוחך באפצ'ל\n                  אסלאם",
+          "start_char": 1404,
+          "end_char": 1456,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ותכוץ מולאי ארב אפצ'ל אסלאם ותעלמהו\nשוקי אליה",
+          "start_char": 1457,
+          "end_char": 1510,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וכדאליך מולאי אשיך אבי זכרי ותעלמה\nחדית אלמרכב ארגו אן יכון דאלך צחיה",
+          "start_char": 1511,
+          "end_char": 1590,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ושלום",
+          "start_char": 1591,
+          "end_char": 1596,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "למולאי אשיך אבי יחיא נהראי בן נסים נ'נ'                                שאכירוה מרדוך\nאטאל אללה בקאהו ואדאם עזהו                                                      בן מוסי נע",
+          "start_char": 1597,
+          "end_char": 1779,
+          "category": "Correspondence"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "בש'מ'",
+            "start_char": 0,
+            "end_char": 5,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "כתאבי אטאל אללה בקאה מולאי אשיך ואדאם עזהו\nותאידהו וסעאדתהו וסלאמתהו מן אסכנדריה יום [        ]\nלח' בקי כתמה אללה עלינא ועליך באחסן כאתמה ען חאל\nסלאמה ועאפיה קרב אללה אלאשתמאע עלא אפצ'ל אל\nאחואל",
+            "start_char": 6,
+            "end_char": 215,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אעלמך יאמולאי אן קד תקדם כתאבי אליך ואעלמתך\nהאל אלג' צרה אלדי כאנת מעי אנהא כלצת ללה אלחמד",
+            "start_char": 216,
+            "end_char": 310,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "מנהא צורה מובסטה עליהא אסם יוסף אדוכי ותאניה\nכלטתך מעה עליהא אסמך ואסמה ותאלתה עליהא\n מכתב מן קבל מוסי אבן יחיא ומא נדרי יאמולאי\n למנהי פכתאבך יעלמני למן אצורה אלתאלתה",
+            "start_char": 311,
+            "end_char": 495,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וקד\n כאן סאלת מולאי פי כתאבי אלמתקדם אן ישתרי לי\n תאסומה בזמאמין ולאבו עמראן ולאבו אלפצ'ל",
+            "start_char": 496,
+            "end_char": 603,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד כאן אעלמני מולאי קבל ספרי אן אסתעמל\n מדאסאת ריפיה פנריד אנפאדהא",
+            "start_char": 604,
+            "end_char": 686,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ותשתרי לי\n רטל פלפל ורטל קרפה ודסתין ורק ודוא ביאן\n דואתי צ'אעת תכון מדורה תצלח ללכריטה",
+            "start_char": 687,
+            "end_char": 787,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ונחיב נסתאנף יאמולאי חאגה חאגה אלא אן יפריג\n אללה",
+            "start_char": 788,
+            "end_char": 842,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "פלמא כאן פי יומי הדה וצל קאריב בן מוליכה\n מן לוך ודכר אן אלאמיר גובארה רד אלמרכב וגמיע\n אלתקל אלדי אנזלהו אלא ברקה ארגו אן יכון דאליך צחיח\n אסל אללה אן יגמע עלא מן כאן להו פיה שי",
+            "start_char": 843,
+            "end_char": 1032,
+            "categories": [
+              "Information"
+            ]
+          },
+          {
+            "text": "וקד\n [[א]] וזנת ען עקבאן קבל כרוגהו ען כרא חוגרה' סדס [      ]",
+            "start_char": 1033,
+            "end_char": 1104,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד בלגני ען אלסמך אלדי אנפדתהו מעוה ללשיך אבי סע[ד]\n אלדין קד פעל מא ישכהו וקד באללה יאמולאי שק עלי דלך //כתיר//",
+            "start_char": 1105,
+            "end_char": 1227,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "פנחיב מנך יאמולא לאלא תוכיר\nעני הדה אלחואיג\nפאני מחתתאג אליהא ומא\nנמשי אלא חאפי",
+            "start_char": 1228,
+            "end_char": 1318,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ותעלמני איש\nאלדי צח פי אל\nמיזר",
+            "start_char": 1319,
+            "end_char": 1354,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ומא\nכאן למול[אי]\nמן חאגא\n ישרפני בקצ'אהא",
+            "start_char": 1355,
+            "end_char": 1403,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ותכוץ עני רוחך באפצ'ל\n                  אסלאם",
+            "start_char": 1404,
+            "end_char": 1456,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ותכוץ מולאי ארב אפצ'ל אסלאם ותעלמהו\nשוקי אליה",
+            "start_char": 1457,
+            "end_char": 1510,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וכדאליך מולאי אשיך אבי זכרי ותעלמה\nחדית אלמרכב ארגו אן יכון דאלך צחיה",
+            "start_char": 1511,
+            "end_char": 1590,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ושלום",
+            "start_char": 1591,
+            "end_char": 1596,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "למולאי אשיך אבי יחיא נהראי בן נסים נ'נ'                                שאכירוה מרדוך\nאטאל אללה בקאהו ואדאם עזהו                                                      בן מוסי נע",
+            "start_char": 1597,
+            "end_char": 1779,
+            "categories": [
+              "Correspondence"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "469": {
+    "total_characters": 2446,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.23642943305186973,
+        "Behavior of Associates": 0.3293124246079614,
+        "Information": 0.0,
+        "Correspondence": 0.16887816646562123,
+        "Travels": 0.0,
+        "Personal, Familial, Communal News": 0.1338962605548854,
+        "Accounts": 0.13148371531966224,
+        "Advice": 0.0,
+        "Legal Actions": 0.0,
+        "Government Relations": 0.0
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "עלקת אליך יאכי אלעזיז עלי הדה אלוקעה עלי סרעה",
+          "start_char": 6,
+          "end_char": 59,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ודלך אן [כאנו] ס[אלוני]\nאולאד סידנא אלנאגיד נ'ע' פי רכוב אסחק בן כאלהם אלי אלאסכנדריה",
+          "start_char": 60,
+          "end_char": 153,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ואנת\nתעלם מא להם עלינא מן אלחקוק ואנהא שי לא נבלגה אלי אקצ'אהא [         ]",
+          "start_char": 154,
+          "end_char": 233,
+          "category": "Accounts"
+        },
+        {
+          "text": "אמרה לסידי אבא(!) אסחק פי מא סאלוננ[י] אנת סריע פלעל יחמל רכובה\nמעך",
+          "start_char": 234,
+          "end_char": 305,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ותאכד עלי סידי אבו אסחק פי באבה ותאונה אנת בכל מא תקדר\nעליה",
+          "start_char": 306,
+          "end_char": 371,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "וסאלת סידי אבו אסחק ידפע אליה כמסין ד'ר'ה' תאכד עליה פי דלך",
+          "start_char": 372,
+          "end_char": 435,
+          "category": "Transactions"
+        },
+        {
+          "text": "ותעמל מעה מא נשכרך עליה",
+          "start_char": 436,
+          "end_char": 462,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "וליס אנת ממן תוצא",
+          "start_char": 463,
+          "end_char": 481,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ואלסלם עליך\n                                              ועקב שלום",
+          "start_char": 482,
+          "end_char": 555,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אכי וסידי אלעזיז עלי אבי יחיי אטאל אללה בקאה",
+          "start_char": 563,
+          "end_char": 607,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "מן ברהון בן אסחק ז'צ'ל'",
+          "start_char": 631,
+          "end_char": 654,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "נהראי בן נסים",
+          "start_char": 655,
+          "end_char": 669,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אללה וליה",
+          "start_char": 696,
+          "end_char": 706,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ה'",
+          "start_char": 729,
+          "end_char": 731,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "אלדי וזנת ען אלעלאואת ועדלין",
+          "start_char": 732,
+          "end_char": 762,
+          "category": "Accounts"
+        },
+        {
+          "text": "דאר מאנך דינ' ונצ' ותמ'",
+          "start_char": 763,
+          "end_char": 787,
+          "category": "Transactions"
+        },
+        {
+          "text": "מהבה ד' דרא' אלי אן תזן ומהבה תאניה [      ]",
+          "start_char": 788,
+          "end_char": 833,
+          "category": "Transactions"
+        },
+        {
+          "text": "נסך",
+          "start_char": 854,
+          "end_char": 857,
+          "category": "Transactions"
+        },
+        {
+          "text": "עלי עיאש בקיה פלפ[ל] כ'א' קיר'",
+          "start_char": 858,
+          "end_char": 890,
+          "category": "Transactions"
+        },
+        {
+          "text": "רפוע >' ורב עתאלין [     ] ורמ'",
+          "start_char": 891,
+          "end_char": 923,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "חארץ רב' דאר [מא]נך י' קרא'",
+          "start_char": 924,
+          "end_char": 953,
+          "category": "Transactions"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "עלקת אליך יאכי אלעזיז עלי הדה אלוקעה עלי סרעה",
+            "start_char": 6,
+            "end_char": 59,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ודלך אן [כאנו] ס[אלוני]\nאולאד סידנא אלנאגיד נ'ע' פי רכוב אסחק בן כאלהם אלי אלאסכנדריה",
+            "start_char": 60,
+            "end_char": 153,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ואנת\nתעלם מא להם עלינא מן אלחקוק ואנהא שי לא נבלגה אלי אקצ'אהא [         ]",
+            "start_char": 154,
+            "end_char": 233,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "אמרה לסידי אבא(!) אסחק פי מא סאלוננ[י] אנת סריע פלעל יחמל רכובה\nמעך",
+            "start_char": 234,
+            "end_char": 305,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ותאכד עלי סידי אבו אסחק פי באבה ותאונה אנת בכל מא תקדר\nעליה",
+            "start_char": 306,
+            "end_char": 371,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "וסאלת סידי אבו אסחק ידפע אליה כמסין ד'ר'ה' תאכד עליה פי דלך",
+            "start_char": 372,
+            "end_char": 435,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ותעמל מעה מא נשכרך עליה",
+            "start_char": 436,
+            "end_char": 462,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "וליס אנת ממן תוצא",
+            "start_char": 463,
+            "end_char": 481,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ואלסלם עליך\n                                              ועקב שלום",
+            "start_char": 482,
+            "end_char": 555,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אכי וסידי אלעזיז עלי אבי יחיי אטאל אללה בקאה",
+            "start_char": 563,
+            "end_char": 607,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "מן ברהון בן אסחק ז'צ'ל'",
+            "start_char": 631,
+            "end_char": 654,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "נהראי בן נסים",
+            "start_char": 655,
+            "end_char": 669,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אללה וליה",
+            "start_char": 696,
+            "end_char": 706,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ה'",
+            "start_char": 729,
+            "end_char": 731,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "אלדי וזנת ען אלעלאואת ועדלין",
+            "start_char": 732,
+            "end_char": 762,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "דאר מאנך דינ' ונצ' ותמ'",
+            "start_char": 763,
+            "end_char": 787,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "מהבה ד' דרא' אלי אן תזן ומהבה תאניה [      ]",
+            "start_char": 788,
+            "end_char": 833,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "נסך",
+            "start_char": 854,
+            "end_char": 857,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "עלי עיאש בקיה פלפ[ל] כ'א' קיר'",
+            "start_char": 858,
+            "end_char": 890,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "רפוע >' ורב עתאלין [     ] ורמ'",
+            "start_char": 891,
+            "end_char": 923,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "חארץ רב' דאר [מא]נך י' קרא'",
+            "start_char": 924,
+            "end_char": 953,
+            "categories": [
+              "Transactions"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "487": {
+    "total_characters": 8305,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.23440025864856126,
+        "Behavior of Associates": 0.1500161655350792,
+        "Information": 0.0187520206918849,
+        "Correspondence": 0.35952150016165535,
+        "Travels": 0.0892337536372454,
+        "Personal, Familial, Communal News": 0.032654380860006466,
+        "Accounts": 0.11542192046556742,
+        "Advice": 0.0,
+        "Legal Actions": 0.0,
+        "Government Relations": 0.0
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "כתאבי יאסידי ומולאי אטאל אללה בקאך מן [ \n] ען סלאמה ל[    ] בקין מן סיואן [",
+          "start_char": 0,
+          "end_char": 93,
+          "category": "Correspondence"
+        },
+        {
+          "text": "] כתירה [\n] תחמלהא [\nלך ענדך מנהא [               ] ונצף ודלך יכון לחסיין אל[",
+          "start_char": 93,
+          "end_char": 175,
+          "category": "Transactions"
+        },
+        {
+          "text": "ולי ענדך מן מא וזנתה עליך פי אלרדאין נסיג וג'זל וקצאר[ה",
+          "start_char": 176,
+          "end_char": 236,
+          "category": "Accounts"
+        },
+        {
+          "text": "מן קבל ישועה געל מן סלפה כתאנך נצף דינאר יכון גמיע [ \nדינאר וסדס ונצף קיראט אלבאקי לך ענדי דינאר וקיראטין וחבה [",
+          "start_char": 237,
+          "end_char": 356,
+          "category": "Accounts"
+        },
+        {
+          "text": "אבי צחק ברהון דינאר ונצף אלבאקי ענדך גאיז רבע וסדס אלא חבה [",
+          "start_char": 357,
+          "end_char": 424,
+          "category": "Accounts"
+        },
+        {
+          "text": "לה ענדי תמן פלפלי ד' דנאניר וקיראטין נחב מנה כמא לם תזאל עואידה יקבץ' לי\nאלב[קי]ה מן אלבזאז והי אלדינארין אלדי דכרת לאן שריכי קד דפע לי פי אל",
+          "start_char": 425,
+          "end_char": 577,
+          "category": "Transactions"
+        },
+        {
+          "text": "] ויתם גמלה [                     ] בקית אלמתאע קד וצל כתאבה למולאי אלשיך\nאבי צחק בר[הון] והו ידכר לה פיה אני לאים לה ואנת תעלם [כ]לקי [",
+          "start_char": 578,
+          "end_char": 730,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אל[        ] אליכם ולל[               ] מן אלמתאע כאמל לם נלומך עלייה ג'יר אנה [",
+          "start_char": 731,
+          "end_char": 817,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "] לך פי אמר [             ] לא ראית אלמראכב עלי אקלאע והו לם יעלם [",
+          "start_char": 818,
+          "end_char": 891,
+          "category": "Travels"
+        },
+        {
+          "text": "צעאליך פעליה כא[                ] וקד וצל סאלם ואוצקתה פי [",
+          "start_char": 892,
+          "end_char": 954,
+          "category": "Correspondence"
+        },
+        {
+          "text": "צחבת אבן מוסי [                       ] וכאן סבב תאכיר אלרדאת על[",
+          "start_char": 955,
+          "end_char": 1024,
+          "category": "Correspondence"
+        },
+        {
+          "text": "קד עמל [                   ] לאן כרגת אלי אלריף דפעתהא אלי סידי אבו [אסחק\nאב]ן פראח ינפדהא אליך נסייהא אלרגל ענדה פלמא כאן פי האדה [",
+          "start_char": 1025,
+          "end_char": 1176,
+          "category": "Transactions"
+        },
+        {
+          "text": "מצ'את פכרני פיהא פ[          ] אליי מן בעד מא תמרתת ושך עלי דלך כתיר וקד",
+          "start_char": 1177,
+          "end_char": 1256,
+          "category": "Correspondence"
+        },
+        {
+          "text": "] אלי אלבחר והי תכרג פי האדה אליומין ננפדהא",
+          "start_char": 1258,
+          "end_char": 1305,
+          "category": "Transactions"
+        },
+        {
+          "text": "] סידי אבי יעקוב יוסף אלכהן וקד אנפדת אלמעגריין ואל",
+          "start_char": 1306,
+          "end_char": 1364,
+          "category": "Transactions"
+        },
+        {
+          "text": "] לסידי אבי יעקוב וקד אקלע פי אל[    ] ורגע רהו יפ[",
+          "start_char": 1365,
+          "end_char": 1419,
+          "category": "Correspondence"
+        },
+        {
+          "text": "] דפעת אלצרה אלעקיק אלי סידי אבי יצחק ברהון ואלדי רגע",
+          "start_char": 1420,
+          "end_char": 1479,
+          "category": "Transactions"
+        },
+        {
+          "text": "ת]חת אלמנארה מרכב אבן אל[       ] ואללכי ואבן [\n] יאכי…",
+          "start_char": 1481,
+          "end_char": 1539,
+          "category": "Information"
+        },
+        {
+          "text": "] ענדי יסתופיה מולאי מן תמן אלמתאע פאן מא בקי מעי[",
+          "start_char": 1548,
+          "end_char": 1603,
+          "category": "Accounts"
+        },
+        {
+          "text": "ענ]די ג' דנאניר ונצף וקיראטין וחבה וקד סאלני מולאי",
+          "start_char": 1605,
+          "end_char": 1661,
+          "category": "Accounts"
+        },
+        {
+          "text": "אלשיך       אן א]כתב אליך כתאב פי ק[     ] והו מא יחתאג כתאב מע ⟦         ⟧",
+          "start_char": 1662,
+          "end_char": 1742,
+          "category": "Correspondence"
+        },
+        {
+          "text": "] אנה רגל קליל אלמתל מן אל⟦עפוא⟧ פצ'ל ואלכירה ואלעלו",
+          "start_char": 1743,
+          "end_char": 1802,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "] מנא בחקה פנחב מנך כמא לא יזאלו עואידך פי אל",
+          "start_char": 1803,
+          "end_char": 1853,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "תע[                         ] מעה לאן נחן מא אבקיינא מגהוד ואלדי [",
+          "start_char": 1854,
+          "end_char": 1925,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "מע [                        ] לך והו רגל מסתו[ר    ] בפעל אלכייר ואקל [מן הדא",
+          "start_char": 1926,
+          "end_char": 2007,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "פיה כפאיה ומשאהדתה תעלם האלה וחאלהא וקד שק עלי מן [",
+          "start_char": 2008,
+          "end_char": 2065,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "] כתאב מולאי אב[י] צחק ברהון [א]ני לאים לה ואללה אל[עאל]ם [",
+          "start_char": 2066,
+          "end_char": 2131,
+          "category": "Correspondence"
+        },
+        {
+          "text": "מן [       ]אצת [                      ] שאכר לך אעלם דלך ואייקנה ותכץ",
+          "start_char": 2132,
+          "end_char": 2205,
+          "category": "Correspondence"
+        },
+        {
+          "text": "רוחך באתם אלסלם [ומא] כאן למולאי מן חאגה ישרפני בהא [ורג]ע מרכב",
+          "start_char": 2206,
+          "end_char": 2277,
+          "category": "Correspondence"
+        },
+        {
+          "text": "מן אלכנאיס [                ] אללה ימן עליהא באלריח ואנא מחבך",
+          "start_char": 2278,
+          "end_char": 2342,
+          "category": "Travels"
+        },
+        {
+          "text": "ושאכר תפצ'לך [                         ] וצל כתאבך אליי אליום ווק[פת מנה עלי] סלאמתך",
+          "start_char": 2343,
+          "end_char": 2432,
+          "category": "Correspondence"
+        },
+        {
+          "text": "] מא פעלתה מעי פאנא ואללה אלעטים באסמה לא אקדר אן [אב]ל[ג] מולאי",
+          "start_char": 2433,
+          "end_char": 2504,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "מכאפה אבדא פאללה יחסן גזאך וקד סרני ביע אלמתאע פנחב ביע אלבאקי",
+          "start_char": 2506,
+          "end_char": 2576,
+          "category": "Transactions"
+        },
+        {
+          "text": "בפצלך וקד וצל לי גמיע מא דכרתה פי כתאבך אללה לא יעדמני בקאך ואדרכני",
+          "start_char": 2577,
+          "end_char": 2651,
+          "category": "Correspondence"
+        },
+        {
+          "text": "מכאפה פפרג' אכתר רחלי ובקית מקים אלסנה הון וקד ואללה יאמולאי [",
+          "start_char": 2652,
+          "end_char": 2721,
+          "category": "Travels"
+        },
+        {
+          "text": "מפארקתי אלי אהלי אלסנה לא חילה ואמא אלקפף אלנשאדר צ'אע [פי מרכב",
+          "start_char": 2722,
+          "end_char": 2792,
+          "category": "Travels"
+        },
+        {
+          "text": "אלאמיר אהל עלי פיה ברטיל נחו מ' דינר וצ'אע רחל [",
+          "start_char": 2793,
+          "end_char": 2846,
+          "category": "Transactions"
+        },
+        {
+          "text": "האדה גמלה פאמא(!) אחתאג אוכד עליך פי ביע אלבקיה [",
+          "start_char": 2847,
+          "end_char": 2900,
+          "category": "Transactions"
+        },
+        {
+          "text": "פמא יאמולאי ואללה אלעטים אקדר אודי לך שכר [",
+          "start_char": 2901,
+          "end_char": 2947,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "לא ילחק אללה ישאהדני פרחך וירזקן חסן אלתא[",
+          "start_char": 2948,
+          "end_char": 2992,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "[ומא כאן]\n[למולאי]\nמן חאגה\nישרפני באקצאהא\nלא ערמת[ך]",
+          "start_char": 3011,
+          "end_char": 3069,
+          "category": "Correspondence"
+        },
+        {
+          "text": "מולאי וסידי אבי יחיי נהראי בן] נסים נ''ע                         מחבה מרדוך בן מוסי נ''ע",
+          "start_char": 3087,
+          "end_char": 3180,
+          "category": "Correspondence"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "כתאבי יאסידי ומולאי אטאל אללה בקאך מן [ \n] ען סלאמה ל[    ] בקין מן סיואן [",
+            "start_char": 0,
+            "end_char": 93,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "] כתירה [\n] תחמלהא [\nלך ענדך מנהא [               ] ונצף ודלך יכון לחסיין אל[",
+            "start_char": 93,
+            "end_char": 175,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ולי ענדך מן מא וזנתה עליך פי אלרדאין נסיג וג'זל וקצאר[ה",
+            "start_char": 176,
+            "end_char": 236,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "מן קבל ישועה געל מן סלפה כתאנך נצף דינאר יכון גמיע [ \nדינאר וסדס ונצף קיראט אלבאקי לך ענדי דינאר וקיראטין וחבה [",
+            "start_char": 237,
+            "end_char": 356,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "אבי צחק ברהון דינאר ונצף אלבאקי ענדך גאיז רבע וסדס אלא חבה [",
+            "start_char": 357,
+            "end_char": 424,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "לה ענדי תמן פלפלי ד' דנאניר וקיראטין נחב מנה כמא לם תזאל עואידה יקבץ' לי\nאלב[קי]ה מן אלבזאז והי אלדינארין אלדי דכרת לאן שריכי קד דפע לי פי אל",
+            "start_char": 425,
+            "end_char": 577,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "] ויתם גמלה [                     ] בקית אלמתאע קד וצל כתאבה למולאי אלשיך\nאבי צחק בר[הון] והו ידכר לה פיה אני לאים לה ואנת תעלם [כ]לקי [",
+            "start_char": 578,
+            "end_char": 730,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אל[        ] אליכם ולל[               ] מן אלמתאע כאמל לם נלומך עלייה ג'יר אנה [",
+            "start_char": 731,
+            "end_char": 817,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "] לך פי אמר [             ] לא ראית אלמראכב עלי אקלאע והו לם יעלם [",
+            "start_char": 818,
+            "end_char": 891,
+            "categories": [
+              "Travels"
+            ]
+          },
+          {
+            "text": "צעאליך פעליה כא[                ] וקד וצל סאלם ואוצקתה פי [",
+            "start_char": 892,
+            "end_char": 954,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "צחבת אבן מוסי [                       ] וכאן סבב תאכיר אלרדאת על[",
+            "start_char": 955,
+            "end_char": 1024,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "קד עמל [                   ] לאן כרגת אלי אלריף דפעתהא אלי סידי אבו [אסחק\nאב]ן פראח ינפדהא אליך נסייהא אלרגל ענדה פלמא כאן פי האדה [",
+            "start_char": 1025,
+            "end_char": 1176,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "מצ'את פכרני פיהא פ[          ] אליי מן בעד מא תמרתת ושך עלי דלך כתיר וקד",
+            "start_char": 1177,
+            "end_char": 1256,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "] אלי אלבחר והי תכרג פי האדה אליומין ננפדהא",
+            "start_char": 1258,
+            "end_char": 1305,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "] סידי אבי יעקוב יוסף אלכהן וקד אנפדת אלמעגריין ואל",
+            "start_char": 1306,
+            "end_char": 1364,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "] לסידי אבי יעקוב וקד אקלע פי אל[    ] ורגע רהו יפ[",
+            "start_char": 1365,
+            "end_char": 1419,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "] דפעת אלצרה אלעקיק אלי סידי אבי יצחק ברהון ואלדי רגע",
+            "start_char": 1420,
+            "end_char": 1479,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ת]חת אלמנארה מרכב אבן אל[       ] ואללכי ואבן [\n] יאכי…",
+            "start_char": 1481,
+            "end_char": 1539,
+            "categories": [
+              "Information"
+            ]
+          },
+          {
+            "text": "] ענדי יסתופיה מולאי מן תמן אלמתאע פאן מא בקי מעי[",
+            "start_char": 1548,
+            "end_char": 1603,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "ענ]די ג' דנאניר ונצף וקיראטין וחבה וקד סאלני מולאי",
+            "start_char": 1605,
+            "end_char": 1661,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "אלשיך       אן א]כתב אליך כתאב פי ק[     ] והו מא יחתאג כתאב מע ⟦         ⟧",
+            "start_char": 1662,
+            "end_char": 1742,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "] אנה רגל קליל אלמתל מן אל⟦עפוא⟧ פצ'ל ואלכירה ואלעלו",
+            "start_char": 1743,
+            "end_char": 1802,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "] מנא בחקה פנחב מנך כמא לא יזאלו עואידך פי אל",
+            "start_char": 1803,
+            "end_char": 1853,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "תע[                         ] מעה לאן נחן מא אבקיינא מגהוד ואלדי [",
+            "start_char": 1854,
+            "end_char": 1925,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "מע [                        ] לך והו רגל מסתו[ר    ] בפעל אלכייר ואקל [מן הדא",
+            "start_char": 1926,
+            "end_char": 2007,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "פיה כפאיה ומשאהדתה תעלם האלה וחאלהא וקד שק עלי מן [",
+            "start_char": 2008,
+            "end_char": 2065,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "] כתאב מולאי אב[י] צחק ברהון [א]ני לאים לה ואללה אל[עאל]ם [",
+            "start_char": 2066,
+            "end_char": 2131,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "מן [       ]אצת [                      ] שאכר לך אעלם דלך ואייקנה ותכץ",
+            "start_char": 2132,
+            "end_char": 2205,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "רוחך באתם אלסלם [ומא] כאן למולאי מן חאגה ישרפני בהא [ורג]ע מרכב",
+            "start_char": 2206,
+            "end_char": 2277,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "מן אלכנאיס [                ] אללה ימן עליהא באלריח ואנא מחבך",
+            "start_char": 2278,
+            "end_char": 2342,
+            "categories": [
+              "Travels"
+            ]
+          },
+          {
+            "text": "ושאכר תפצ'לך [                         ] וצל כתאבך אליי אליום ווק[פת מנה עלי] סלאמתך",
+            "start_char": 2343,
+            "end_char": 2432,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "] מא פעלתה מעי פאנא ואללה אלעטים באסמה לא אקדר אן [אב]ל[ג] מולאי",
+            "start_char": 2433,
+            "end_char": 2504,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "מכאפה אבדא פאללה יחסן גזאך וקד סרני ביע אלמתאע פנחב ביע אלבאקי",
+            "start_char": 2506,
+            "end_char": 2576,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "בפצלך וקד וצל לי גמיע מא דכרתה פי כתאבך אללה לא יעדמני בקאך ואדרכני",
+            "start_char": 2577,
+            "end_char": 2651,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "מכאפה פפרג' אכתר רחלי ובקית מקים אלסנה הון וקד ואללה יאמולאי [",
+            "start_char": 2652,
+            "end_char": 2721,
+            "categories": [
+              "Travels"
+            ]
+          },
+          {
+            "text": "מפארקתי אלי אהלי אלסנה לא חילה ואמא אלקפף אלנשאדר צ'אע [פי מרכב",
+            "start_char": 2722,
+            "end_char": 2792,
+            "categories": [
+              "Travels"
+            ]
+          },
+          {
+            "text": "אלאמיר אהל עלי פיה ברטיל נחו מ' דינר וצ'אע רחל [",
+            "start_char": 2793,
+            "end_char": 2846,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "האדה גמלה פאמא(!) אחתאג אוכד עליך פי ביע אלבקיה [",
+            "start_char": 2847,
+            "end_char": 2900,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "פמא יאמולאי ואללה אלעטים אקדר אודי לך שכר [",
+            "start_char": 2901,
+            "end_char": 2947,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "לא ילחק אללה ישאהדני פרחך וירזקן חסן אלתא[",
+            "start_char": 2948,
+            "end_char": 2992,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "[ומא כאן]\n[למולאי]\nמן חאגה\nישרפני באקצאהא\nלא ערמת[ך]",
+            "start_char": 3011,
+            "end_char": 3069,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "מולאי וסידי אבי יחיי נהראי בן] נסים נ''ע                         מחבה מרדוך בן מוסי נ''ע",
+            "start_char": 3087,
+            "end_char": 3180,
+            "categories": [
+              "Correspondence"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "493": {
+    "total_characters": 216,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.18385650224215247,
+        "Behavior of Associates": 0.0,
+        "Information": 0.0,
+        "Correspondence": 0.5291479820627802,
+        "Travels": 0.0,
+        "Personal, Familial, Communal News": 0.28699551569506726,
+        "Accounts": 0.0,
+        "Advice": 0.0,
+        "Legal Actions": 0.0,
+        "Government Relations": 0.0
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "אחי אבי יחיי סלמה אללה",
+          "start_char": 0,
+          "end_char": 24,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "כתבת אליה כתאב ואתנין פי אלמראכב\nולם ארא לה גואב",
+          "start_char": 25,
+          "end_char": 78,
+          "category": "Correspondence"
+        },
+        {
+          "text": "פאבלגה סלאמי",
+          "start_char": 79,
+          "end_char": 92,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ועלאל אלסלם",
+          "start_char": 93,
+          "end_char": 105,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וואלדתה אלסלם",
+          "start_char": 106,
+          "end_char": 120,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ואכתי תבלגהא אלסלם",
+          "start_char": 121,
+          "end_char": 140,
+          "category": "Correspondence"
+        },
+        {
+          "text": "והארון אלסלם",
+          "start_char": 141,
+          "end_char": 154,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ושמואל אלסלם",
+          "start_char": 155,
+          "end_char": 168,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "וכל מן סאל ענא אלסלם",
+          "start_char": 169,
+          "end_char": 190,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ואלקצט\nאלדי לך אגיבה אלמקבלה אן שא אללה",
+          "start_char": 191,
+          "end_char": 232,
+          "category": "Transactions"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "אחי אבי יחיי סלמה אללה",
+            "start_char": 0,
+            "end_char": 24,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "כתבת אליה כתאב ואתנין פי אלמראכב\nולם ארא לה גואב",
+            "start_char": 25,
+            "end_char": 78,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "פאבלגה סלאמי",
+            "start_char": 79,
+            "end_char": 92,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ועלאל אלסלם",
+            "start_char": 93,
+            "end_char": 105,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וואלדתה אלסלם",
+            "start_char": 106,
+            "end_char": 120,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ואכתי תבלגהא אלסלם",
+            "start_char": 121,
+            "end_char": 140,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "והארון אלסלם",
+            "start_char": 141,
+            "end_char": 154,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ושמואל אלסלם",
+            "start_char": 155,
+            "end_char": 168,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "וכל מן סאל ענא אלסלם",
+            "start_char": 169,
+            "end_char": 190,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ואלקצט\nאלדי לך אגיבה אלמקבלה אן שא אללה",
+            "start_char": 191,
+            "end_char": 232,
+            "categories": [
+              "Transactions"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "531": {
+    "total_characters": 7187,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.05737337516808606,
+        "Behavior of Associates": 0.0,
+        "Information": 0.0,
+        "Correspondence": 0.09143881667413715,
+        "Travels": 0.0,
+        "Personal, Familial, Communal News": 0.2503361721201255,
+        "Accounts": 0.017929179740026894,
+        "Advice": 0.0,
+        "Legal Actions": 0.5829224562976244,
+        "Government Relations": 0.0
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "שלומות להשלימן וטובות להקדימן וישועות להעצימן\nוהצלחות להתמימן וברכת אב להנאימן לגזע נין\nאכל מן כנין כלכל ודר[דע והימן] מרב נהראי אשר הוזמן\nלכל טובה להיתמן ולכל חכמות להחכימן וכל מצות להקימן\nבכן יזכה למנותו היות פרנס דורו ומוריהו ביר' נסים נ'ע'\n        שלום רב מהאל הרב אליך יתרברב ממזרח וממערב\nנצח סלה",
+          "start_char": 0,
+          "end_char": 330,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "הגיעה אגרתו היקרה המשובחה והמפוארה\nבמליה מעוטרה כצנה סוחרה וקראתיה בשמחה",
+          "start_char": 330,
+          "end_char": 410,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ואשר\nהזכיר עסק תשובת השאל[ה ש]נשאלה היא נסח השאלה אשר\n שאל החבר ש'צ' מלה מלה ולא היא השאלה אשר שאלתי ואשר שגרו\n אליך",
+          "start_char": 410,
+          "end_char": 551,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ואמת אשר השיב אדוננו הרב נ'ט' מן שמ' הוא פירוש ההלכה\n ותחלת התשו' //אשר שאל// והזכיר כי קידשה אבוהא והי קטנה ואחר כך נתרצ/את/\n מיועיל זו השאלה אם נתרצת' ואם לא נתרצת //כבר אמרו חכמ// האב זכאי בבתו\n בקדושי[[הא]] //ובתו// ובהפרת נדריה מן //יום// שיצאת מכריסה דאמה ועד\n דבגרה לא היה לו צ[ורך] ל[שאו]ל לזה הדבר הרבה",
+          "start_char": 551,
+          "end_char": 890,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "ואשר הורה אדננ'\n אח' רח' כי המצוה היום ליבם ולא להחלוץ כד' דרבנן כי כן\n למדתונו //מצות יבום קודמת למצות חליצ'// יחיד ורבים הלכה כרבים ולא כאבא שאול' //שאמר מצו' חליצ' קוד' למצ' יבמה // ואף עלפ[י]\n שאמר רב ששת משמיה דר' אלעזר בן עזריה שאין חוסמין\n לה //דבענן// למימר לקמן ואי אמרה יבמה לא ניחא לי ביבם לא מיבם\n לה בעל כורחה",
+          "start_char": 890,
+          "end_char": 1209,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "אלא [[בנ]] לא לכל /ה/אנשים ולא לכל היבמין ולא לכל\n היבמות כי יש יבם ראוי לו ליבם ויש יבם ראוי לו להחלוץ כי //רוב העם// היום\n אינן מתכוונין להק[ים את שם המת וי]ש לד[יי]ן וְלִזְקנים שב/כל/ מקום\n רשות לדבר אליו כי כן אמרה /ה/תורה ודברו אליו ואמ' חכמ' ודברו\n אליו שנותנין לו עצה //ההוגנת לו//",
+          "start_char": 1209,
+          "end_char": 1534,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "ואם היה ממרה ומסרף(!) על פי הדין\n והזקנים אכפינן לו בעל כרחו כי כן אמ' חכ' ואי אמ' יבם\n יבומי ה[וא ד]מיב<מ>נא לה מחלץ לא חלצנא לה אכפינן לה מלמד\n שכופי[ן אותו] עד שי[יאמר רוצה] אני",
+          "start_char": 1534,
+          "end_char": 1730,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "ואשר היה בבית דין\n לאחר[                                                   ]בית הכנסת וקנו מידם\n שיקב[לו משמ]עתם [                                   ]מן דין בין טוב ובין\n רע ושלח בית דין חמשה [זקנים מ]בית הכנסת כגון ר'",
+          "start_char": 1730,
+          "end_char": 1975,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "אברהם ביר' פראח ודומיהו ארבעה זקנים אחרים והלכו והחזירו תשובה לבית דין כי הלכנו אצל זו היבמה\n ואשת/מ/ודענוהא בכש/י/רי הנשים ואימנו עליה ודברנו אליה כי מן השמים ומן התורה רמייה רחמנא עלייך אין ליך ממנו\nפירוש וחובה היא שתתיבמי לו בעל כרחיך אל תסרפי ואל תמאני עליו ואל תשמעי ממן יפתיך וישגיך ואם תאמרי שמא\nלא יתרצא אבוך ולא יתן ליך נדוניא עלינו כל מה שתחפוצי מן אבוך השיבה אלינו",
+          "start_char": 1975,
+          "end_char": 2448,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "וכן ענתה ואמרה אחיו",
+          "start_char": 2448,
+          "end_char": 2471,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אחיו(!) שנפטר ואף על פי ש[היה פנוי ל]א נת[רציתי] כל שכן זה שיש לו\nאשה ובנים /ש/תכניסוני אצל ה[צ]רה לוא תחתכו [א]ת בשרי //אברים// לא אבו אל\nדבריכם ולא אשמע מליכם שתכניסוני אצל צרה יש לו אחים פנוים\nאם יבמו יבמו ואם יחלצו יחלצו ואל תכריחוני שמא תוציאוני לתרבות\nרעה ויהי עווני בצורכם",
+          "start_char": 2480,
+          "end_char": 2799,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "וכששמעו //בית דין והזקנים הנשארים// את דברי הזקנים //הנשארים// אמר //בית דין// ליבם מה\nתאמר נפשך הרי אמרה לא ניחא לי שאכנס אצל צרה עמד אותו היבם\nונשבע שאין אחלוץ לה [                            י]נחינו הדין ומה שהיה כבר פירשתי\nאליך",
+          "start_char": 2799,
+          "end_char": 3053,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "ונתבזה בית דין והזקנים בזה המקום כי לא יאבו לשמוע על דבריהם\nכי יש ביננו אנשים לא ידעו עומק הדינים והם ממרים על פי בית דין\n ומסרפים לכל מה שישפטו ויחזקו ידי בעלי הדינים כדי להכעיס\n והם לא ידעו כי לא כל היבמות יחלצו ולא כל היבמות יתיבמו ויש לבית דין\n שידין לפי העת ולפי הזמן ולפי בעלי דינים",
+          "start_char": 3053,
+          "end_char": 3398,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ועתה שואל אני מלפניך\n שתגלה אוזן אד' הרב ותאמר לו איזה הו טוב שנכריח זה היבם ששיש(!)\n לו אשה ובנים ותהיה //לאחיו// הפנויים אם רצו ייבמו ואם רצו יחלצו ונשבית\n קטטה ומחלקת או שנכריחה היבמה על כרחה ונכניסה על הצרה\n אם תתבייש ולא תצא לתרבות רעה ילמדנו רב' הרב מה נעשה כי\n יש במקום הזה אנשים שיחזקו את זרוע היבם למען שימרו על פי\n בית דין ותנחץ //לי// התשובה כדי להשקיט מדון ומריבה",
+          "start_char": 3398,
+          "end_char": 3848,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "ואשר זכר\n עבור הקלמוסים מקני מריוט כי הזמן הזה הם לחים ולא יחתכום\n אלא עד אב עים בצי[ר הע]נבים ואני אשגר ואביאם ואחתכם קלמוסים\n ואשגרם לך בידי זה [                       וכ]ל חשחושיך וצרכיך הודיעיני\n כי אני שמח בהם",
+          "start_char": 3848,
+          "end_char": 4104,
+          "category": "Transactions"
+        },
+        {
+          "text": "ומה שנשאר לך מדמי הבלקי הודיעני או הרשני אצל\n מי אשגרם אליך",
+          "start_char": 4104,
+          "end_char": 4184,
+          "category": "Accounts"
+        },
+        {
+          "text": "וכן תתן רוב קידה ושתח ממני לרב' הרב אח' רח'\n ושלום לך ושלום לאנשי ביתיך והשרים אל משמעתיך ועקב שלום",
+          "start_char": 4184,
+          "end_char": 4307,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "לכבוד מר' ורב נהראי ב[ן נסים נ'ע'      מן יש]ועה ביר' יוסף נ'ע'\nהחכם והנבון הירא לאלוהי [ישראל       ] ישמרו שומר נפשות חסיד מיד רשע סלה",
+          "start_char": 4330,
+          "end_char": 4494,
+          "category": "Correspondence"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "שלומות להשלימן וטובות להקדימן וישועות להעצימן\nוהצלחות להתמימן וברכת אב להנאימן לגזע נין\nאכל מן כנין כלכל ודר[דע והימן] מרב נהראי אשר הוזמן\nלכל טובה להיתמן ולכל חכמות להחכימן וכל מצות להקימן\nבכן יזכה למנותו היות פרנס דורו ומוריהו ביר' נסים נ'ע'\n        שלום רב מהאל הרב אליך יתרברב ממזרח וממערב\nנצח סלה",
+            "start_char": 0,
+            "end_char": 330,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "הגיעה אגרתו היקרה המשובחה והמפוארה\nבמליה מעוטרה כצנה סוחרה וקראתיה בשמחה",
+            "start_char": 330,
+            "end_char": 410,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ואשר\nהזכיר עסק תשובת השאל[ה ש]נשאלה היא נסח השאלה אשר\n שאל החבר ש'צ' מלה מלה ולא היא השאלה אשר שאלתי ואשר שגרו\n אליך",
+            "start_char": 410,
+            "end_char": 551,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ואמת אשר השיב אדוננו הרב נ'ט' מן שמ' הוא פירוש ההלכה\n ותחלת התשו' //אשר שאל// והזכיר כי קידשה אבוהא והי קטנה ואחר כך נתרצ/את/\n מיועיל זו השאלה אם נתרצת' ואם לא נתרצת //כבר אמרו חכמ// האב זכאי בבתו\n בקדושי[[הא]] //ובתו// ובהפרת נדריה מן //יום// שיצאת מכריסה דאמה ועד\n דבגרה לא היה לו צ[ורך] ל[שאו]ל לזה הדבר הרבה",
+            "start_char": 551,
+            "end_char": 890,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "ואשר הורה אדננ'\n אח' רח' כי המצוה היום ליבם ולא להחלוץ כד' דרבנן כי כן\n למדתונו //מצות יבום קודמת למצות חליצ'// יחיד ורבים הלכה כרבים ולא כאבא שאול' //שאמר מצו' חליצ' קוד' למצ' יבמה // ואף עלפ[י]\n שאמר רב ששת משמיה דר' אלעזר בן עזריה שאין חוסמין\n לה //דבענן// למימר לקמן ואי אמרה יבמה לא ניחא לי ביבם לא מיבם\n לה בעל כורחה",
+            "start_char": 890,
+            "end_char": 1209,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "אלא [[בנ]] לא לכל /ה/אנשים ולא לכל היבמין ולא לכל\n היבמות כי יש יבם ראוי לו ליבם ויש יבם ראוי לו להחלוץ כי //רוב העם// היום\n אינן מתכוונין להק[ים את שם המת וי]ש לד[יי]ן וְלִזְקנים שב/כל/ מקום\n רשות לדבר אליו כי כן אמרה /ה/תורה ודברו אליו ואמ' חכמ' ודברו\n אליו שנותנין לו עצה //ההוגנת לו//",
+            "start_char": 1209,
+            "end_char": 1534,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "ואם היה ממרה ומסרף(!) על פי הדין\n והזקנים אכפינן לו בעל כרחו כי כן אמ' חכ' ואי אמ' יבם\n יבומי ה[וא ד]מיב<מ>נא לה מחלץ לא חלצנא לה אכפינן לה מלמד\n שכופי[ן אותו] עד שי[יאמר רוצה] אני",
+            "start_char": 1534,
+            "end_char": 1730,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "ואשר היה בבית דין\n לאחר[                                                   ]בית הכנסת וקנו מידם\n שיקב[לו משמ]עתם [                                   ]מן דין בין טוב ובין\n רע ושלח בית דין חמשה [זקנים מ]בית הכנסת כגון ר'",
+            "start_char": 1730,
+            "end_char": 1975,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "אברהם ביר' פראח ודומיהו ארבעה זקנים אחרים והלכו והחזירו תשובה לבית דין כי הלכנו אצל זו היבמה\n ואשת/מ/ודענוהא בכש/י/רי הנשים ואימנו עליה ודברנו אליה כי מן השמים ומן התורה רמייה רחמנא עלייך אין ליך ממנו\nפירוש וחובה היא שתתיבמי לו בעל כרחיך אל תסרפי ואל תמאני עליו ואל תשמעי ממן יפתיך וישגיך ואם תאמרי שמא\nלא יתרצא אבוך ולא יתן ליך נדוניא עלינו כל מה שתחפוצי מן אבוך השיבה אלינו",
+            "start_char": 1975,
+            "end_char": 2448,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "וכן ענתה ואמרה אחיו",
+            "start_char": 2448,
+            "end_char": 2471,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אחיו(!) שנפטר ואף על פי ש[היה פנוי ל]א נת[רציתי] כל שכן זה שיש לו\nאשה ובנים /ש/תכניסוני אצל ה[צ]רה לוא תחתכו [א]ת בשרי //אברים// לא אבו אל\nדבריכם ולא אשמע מליכם שתכניסוני אצל צרה יש לו אחים פנוים\nאם יבמו יבמו ואם יחלצו יחלצו ואל תכריחוני שמא תוציאוני לתרבות\nרעה ויהי עווני בצורכם",
+            "start_char": 2480,
+            "end_char": 2799,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "וכששמעו //בית דין והזקנים הנשארים// את דברי הזקנים //הנשארים// אמר //בית דין// ליבם מה\nתאמר נפשך הרי אמרה לא ניחא לי שאכנס אצל צרה עמד אותו היבם\nונשבע שאין אחלוץ לה [                            י]נחינו הדין ומה שהיה כבר פירשתי\nאליך",
+            "start_char": 2799,
+            "end_char": 3053,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "ונתבזה בית דין והזקנים בזה המקום כי לא יאבו לשמוע על דבריהם\nכי יש ביננו אנשים לא ידעו עומק הדינים והם ממרים על פי בית דין\n ומסרפים לכל מה שישפטו ויחזקו ידי בעלי הדינים כדי להכעיס\n והם לא ידעו כי לא כל היבמות יחלצו ולא כל היבמות יתיבמו ויש לבית דין\n שידין לפי העת ולפי הזמן ולפי בעלי דינים",
+            "start_char": 3053,
+            "end_char": 3398,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ועתה שואל אני מלפניך\n שתגלה אוזן אד' הרב ותאמר לו איזה הו טוב שנכריח זה היבם ששיש(!)\n לו אשה ובנים ותהיה //לאחיו// הפנויים אם רצו ייבמו ואם רצו יחלצו ונשבית\n קטטה ומחלקת או שנכריחה היבמה על כרחה ונכניסה על הצרה\n אם תתבייש ולא תצא לתרבות רעה ילמדנו רב' הרב מה נעשה כי\n יש במקום הזה אנשים שיחזקו את זרוע היבם למען שימרו על פי\n בית דין ותנחץ //לי// התשובה כדי להשקיט מדון ומריבה",
+            "start_char": 3398,
+            "end_char": 3848,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "ואשר זכר\n עבור הקלמוסים מקני מריוט כי הזמן הזה הם לחים ולא יחתכום\n אלא עד אב עים בצי[ר הע]נבים ואני אשגר ואביאם ואחתכם קלמוסים\n ואשגרם לך בידי זה [                       וכ]ל חשחושיך וצרכיך הודיעיני\n כי אני שמח בהם",
+            "start_char": 3848,
+            "end_char": 4104,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ומה שנשאר לך מדמי הבלקי הודיעני או הרשני אצל\n מי אשגרם אליך",
+            "start_char": 4104,
+            "end_char": 4184,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "וכן תתן רוב קידה ושתח ממני לרב' הרב אח' רח'\n ושלום לך ושלום לאנשי ביתיך והשרים אל משמעתיך ועקב שלום",
+            "start_char": 4184,
+            "end_char": 4307,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "לכבוד מר' ורב נהראי ב[ן נסים נ'ע'      מן יש]ועה ביר' יוסף נ'ע'\nהחכם והנבון הירא לאלוהי [ישראל       ] ישמרו שומר נפשות חסיד מיד רשע סלה",
+            "start_char": 4330,
+            "end_char": 4494,
+            "categories": [
+              "Correspondence"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "567": {
+    "total_characters": 2854,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.24954128440366974,
+        "Behavior of Associates": 0.20917431192660552,
+        "Information": 0.0981651376146789,
+        "Correspondence": 0.318348623853211,
+        "Travels": 0.08256880733944955,
+        "Personal, Familial, Communal News": 0.04220183486238532,
+        "Accounts": 0.0,
+        "Advice": 0.0,
+        "Legal Actions": 0.0,
+        "Government Relations": 0.0
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "[                                               ] אן כאן יום אן מרצנא\n[ע]נדכום הוא דאך אלעדל אלדי תערף אלא אלאן חתא\nתרודוה",
+          "start_char": 0,
+          "end_char": 154,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד בלג אניל סער אן עצים ולם יביעוה\nפלמא כסר דורה",
+          "start_char": 155,
+          "end_char": 211,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד בלגו גירצ'הם לא\nמתכלין עלא אללה עז וגל חית קטעו אסנה בינא\nפי תמנה",
+          "start_char": 212,
+          "end_char": 289,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "אללה יעוץ' [         ]ידו ויבקא להום אעמלהום",
+          "start_char": 290,
+          "end_char": 336,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "פתתפצ'ל מן כתבך אלא ענד אשיך אבו יעקב\nאבן כאלי פתדכר לה חדית אלמסלה אלדי לי\nענד ארייס",
+          "start_char": 337,
+          "end_char": 432,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ואיצ'א אלכרז אלדי לציביאן מן\n טלע מן אצ[ח]בוא לענדהם מעה",
+          "start_char": 433,
+          "end_char": 495,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד סר אכי\n פי מרכב בקא הונא אבי אלכיר והוא יומר פי\n אכר אן שאללה סריע ויקוא ויציב",
+          "start_char": 496,
+          "end_char": 586,
+          "category": "Travels"
+        },
+        {
+          "text": "כאן אדא\n וצל אשיך אב<ו> יעקב פתעין עלא סידי ועלא\n אכוה ואולדיה אללה אללה לאנך אנת תערף\n אסיר ואש תמא וגירך יאשיך יאכי יאתי\n אלמוצא",
+          "start_char": 587,
+          "end_char": 738,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ולא תקטע ענא כתובך ולא\n חויגיך לאנא פרחון ביה",
+          "start_char": 739,
+          "end_char": 787,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וסלם עליך",
+          "start_char": 788,
+          "end_char": 798,
+          "category": "Correspondence"
+        },
+        {
+          "text": "                 ] תכוצך באפצ'ל אסלאם",
+          "start_char": 822,
+          "end_char": 862,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וקד אקלע מרכב אבן אבי נסר\n                                   ואלעטר ודם אריח מעהם ד' איאנס",
+          "start_char": 863,
+          "end_char": 970,
+          "category": "Information"
+        },
+        {
+          "text": "יצל לשיכי וכבירי ורייסי                  מן ודוה ומחבוה סלמאן\n                   אטאל אללה בקאה       בן דראד נ'ע'\n     נה]ראי בן נסים נ'ע'",
+          "start_char": 978,
+          "end_char": 1132,
+          "category": "Correspondence"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "[                                               ] אן כאן יום אן מרצנא\n[ע]נדכום הוא דאך אלעדל אלדי תערף אלא אלאן חתא\nתרודוה",
+            "start_char": 0,
+            "end_char": 154,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד בלג אניל סער אן עצים ולם יביעוה\nפלמא כסר דורה",
+            "start_char": 155,
+            "end_char": 211,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד בלגו גירצ'הם לא\nמתכלין עלא אללה עז וגל חית קטעו אסנה בינא\nפי תמנה",
+            "start_char": 212,
+            "end_char": 289,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "אללה יעוץ' [         ]ידו ויבקא להום אעמלהום",
+            "start_char": 290,
+            "end_char": 336,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "פתתפצ'ל מן כתבך אלא ענד אשיך אבו יעקב\nאבן כאלי פתדכר לה חדית אלמסלה אלדי לי\nענד ארייס",
+            "start_char": 337,
+            "end_char": 432,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ואיצ'א אלכרז אלדי לציביאן מן\n טלע מן אצ[ח]בוא לענדהם מעה",
+            "start_char": 433,
+            "end_char": 495,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד סר אכי\n פי מרכב בקא הונא אבי אלכיר והוא יומר פי\n אכר אן שאללה סריע ויקוא ויציב",
+            "start_char": 496,
+            "end_char": 586,
+            "categories": [
+              "Travels"
+            ]
+          },
+          {
+            "text": "כאן אדא\n וצל אשיך אב<ו> יעקב פתעין עלא סידי ועלא\n אכוה ואולדיה אללה אללה לאנך אנת תערף\n אסיר ואש תמא וגירך יאשיך יאכי יאתי\n אלמוצא",
+            "start_char": 587,
+            "end_char": 738,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ולא תקטע ענא כתובך ולא\n חויגיך לאנא פרחון ביה",
+            "start_char": 739,
+            "end_char": 787,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וסלם עליך",
+            "start_char": 788,
+            "end_char": 798,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "                 ] תכוצך באפצ'ל אסלאם",
+            "start_char": 822,
+            "end_char": 862,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וקד אקלע מרכב אבן אבי נסר\n                                   ואלעטר ודם אריח מעהם ד' איאנס",
+            "start_char": 863,
+            "end_char": 970,
+            "categories": [
+              "Information"
+            ]
+          },
+          {
+            "text": "יצל לשיכי וכבירי ורייסי                  מן ודוה ומחבוה סלמאן\n                   אטאל אללה בקאה       בן דראד נ'ע'\n     נה]ראי בן נסים נ'ע'",
+            "start_char": 978,
+            "end_char": 1132,
+            "categories": [
+              "Correspondence"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "575": {
+    "total_characters": 7405,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.3982646420824295,
+        "Behavior of Associates": 0.19609544468546639,
+        "Information": 0.0,
+        "Correspondence": 0.22733188720173536,
+        "Travels": 0.0,
+        "Personal, Familial, Communal News": 0.0824295010845987,
+        "Accounts": 0.0420824295010846,
+        "Advice": 0.053796095444685464,
+        "Legal Actions": 0.0,
+        "Government Relations": 0.0
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "כתאבי יאסידי וריסי אטאל אללה בקאך ואדאם סלאמתך וסעאדתך וצרף אלאסוא ענך ברחמתה",
+          "start_char": 0,
+          "end_char": 93,
+          "category": "Correspondence"
+        },
+        {
+          "text": "מן מצר לד' כלון מן שבט ערפך אללה ואיאנא ברכתה וסעאדה מא יליה ואלחאל סלאמה ונעמה",
+          "start_char": 94,
+          "end_char": 179,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ואלחמד ללה רב אלעאלמין בעד וצול כתבך ווקפת מנהא עלי סלאמתך אדאמהא אללה לך",
+          "start_char": 180,
+          "end_char": 260,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אעלמך אן וצלת כתב מולאי כאלך ביד אנסן אטראבלסי וצל פי קאפלה ברקה ואנפרתהא לך",
+          "start_char": 261,
+          "end_char": 346,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אמס ביד חיים בן ישראל אלעגילי ארגו וצולהא אליך ווקופך עליהא",
+          "start_char": 347,
+          "end_char": 410,
+          "category": "Transactions"
+        },
+        {
+          "text": "דכרת תוגיה אלאעדאל",
+          "start_char": 411,
+          "end_char": 432,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ואנא אקבץ' אלגמיע חסב מא רסמת אן שא אללה",
+          "start_char": 433,
+          "end_char": 476,
+          "category": "Transactions"
+        },
+        {
+          "text": "דכרת חאל אלנשאצ'ר וקד וחק אבי מצ'ית אליה באל\nדנאניר מכתומה ורדהא עלי ואעתד'ר באן אנקטע כ'בז אלפגאלין [ל]דיהם ומא קדרת עלי\nשי אעלמתך דאלך",
+          "start_char": 477,
+          "end_char": 625,
+          "category": "Transactions"
+        },
+        {
+          "text": "דכרת מא תפצ'לת בה אנך תקף פי שד אלאעדאל ויאמולאי אנת תערף\nאן אקאמתי הנא אכתרהא לשג'לכם ולו כרגנא כלנא אנקטעת אשגאלנא ען מצר לא מן\nיקבץ' עדל ולא מן יתקאצ'א ולא מן יביע פאדא אכפיתמוני אלמונה נגז שגלנא גמיע\nאן שא אללה ואנמא יראדו אלאצחאב להד'א תשד מני ונשד מנך פננתגז",
+          "start_char": 626,
+          "end_char": 879,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "וקד רד סידי\nאבו אלכיר בן תמאם שקה כ'אם ד'י'נ' ו>' ות'מן וועד באנה יחאסבני וירד עלי אלבאקי ארגו יפעל",
+          "start_char": 880,
+          "end_char": 977,
+          "category": "Accounts"
+        },
+        {
+          "text": "ומא דכרתה מן ביע אלמתאע מא לה פי הד'א אלוקת וגה ותמן אלשמע לאלאן מא קבצ'תה לאנה\nיריד פראג יומין ג' לעלי אד/א תפרג'ת מן אלסאחל אן שא אללה אלאזמה פיה",
+          "start_char": 978,
+          "end_char": 1137,
+          "category": "Transactions"
+        },
+        {
+          "text": "אלמרגאן לאלאן מא\nאביע ומא הו שי ידפע לי אנא מנה חבה ולא לך קאל הו אנא אשתרי בה אעלמתך דלך",
+          "start_char": 1138,
+          "end_char": 1228,
+          "category": "Transactions"
+        },
+        {
+          "text": "ולם\nיביע מן אלשש לאלאן שי ולא הד'א וקתה ואנמא חבסה עלי אנה יביעה פי פורים לעל",
+          "start_char": 1229,
+          "end_char": 1316,
+          "category": "Transactions"
+        },
+        {
+          "text": "תתחאיא [בה]\nאלאסואק שי ואנא\nאשיר עליך יאמולאי\nאן תנגז פי אשג'אלך\nולא תנצ'ר לתואני\nסידי אבי אסחק\nברהון באלבחר\nענדה ללכעב",
+          "start_char": 1334,
+          "end_char": 1458,
+          "category": "Advice"
+        },
+        {
+          "text": "דכרת חאל אלזפת\nמצ'ית לכלפון נטלבו\nבתלתיין מא באע\nבאלאסכנדריה\nמן קבל אן יערף\nאני",
+          "start_char": 1459,
+          "end_char": 1542,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אטאלבה בביע\nאלאסכנדריה\nקאל לי וחק לו\nסאלתני פי\nחבה לאני מא\nבעת אלא סהמי\nיעני ביע מצר\nוהו יסוי אליום\nב' י'ד' פלמא\nערף אני בביע\nאלאסכנדריה\nאטאלבה קאל חתי\nיפאצלני פי אל\nאוזאן ונדפע\nאעלמתך דלך\nוקד",
+          "start_char": 1557,
+          "end_char": 1718,
+          "category": "Transactions"
+        },
+        {
+          "text": "כנת אנפדת לתניס מקטע לי ולו ערפתני אנפדת אלמקטעין מתאעך מעהם ואנא אנפדהם\nאן שא אללה",
+          "start_char": 1727,
+          "end_char": 1820,
+          "category": "Transactions"
+        },
+        {
+          "text": "ותעמל עלי אלאנגאז ותגי תתכ'לץ מן הנא ותרא איש תעמל פי אלמרגאן ואלשש",
+          "start_char": 1821,
+          "end_char": 1895,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד\nיאסידי טולת קעודך ת'ם אליום ג' שהור ושי לו כאן לך שרא בוציר כלהא ולא תתואנא לאכר אל\nוקת מת'ל עאם אול אנת עאם אול מא כאן לך שג'ל במצר ואלסעה אנת מלבט מן כל וגה ואקל\nמן הד'א למתלך כפאיה",
+          "start_char": 1896,
+          "end_char": 2095,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "קראת עליך אתם אלסלם וסידי אבי עמראן מוסי אלסלם וגמיע אצחאבנא אלסלם\nויוסף וואלדתה יקריוך אלסלם",
+          "start_char": 2096,
+          "end_char": 2201,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "לסידי וריסי אבי אברהים עיאש בן צדקה נ'ע'                      מן נהראי בן נסים נ'ע'\nאטאל אללה בקאה ואדאם סלאמתה וסעאדתה                     בוציר אן שא אללה\nע׳׳א",
+          "start_char": 2211,
+          "end_char": 2373,
+          "category": "Correspondence"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "כתאבי יאסידי וריסי אטאל אללה בקאך ואדאם סלאמתך וסעאדתך וצרף אלאסוא ענך ברחמתה",
+            "start_char": 0,
+            "end_char": 93,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "מן מצר לד' כלון מן שבט ערפך אללה ואיאנא ברכתה וסעאדה מא יליה ואלחאל סלאמה ונעמה",
+            "start_char": 94,
+            "end_char": 179,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ואלחמד ללה רב אלעאלמין בעד וצול כתבך ווקפת מנהא עלי סלאמתך אדאמהא אללה לך",
+            "start_char": 180,
+            "end_char": 260,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אעלמך אן וצלת כתב מולאי כאלך ביד אנסן אטראבלסי וצל פי קאפלה ברקה ואנפרתהא לך",
+            "start_char": 261,
+            "end_char": 346,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אמס ביד חיים בן ישראל אלעגילי ארגו וצולהא אליך ווקופך עליהא",
+            "start_char": 347,
+            "end_char": 410,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "דכרת תוגיה אלאעדאל",
+            "start_char": 411,
+            "end_char": 432,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ואנא אקבץ' אלגמיע חסב מא רסמת אן שא אללה",
+            "start_char": 433,
+            "end_char": 476,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "דכרת חאל אלנשאצ'ר וקד וחק אבי מצ'ית אליה באל\nדנאניר מכתומה ורדהא עלי ואעתד'ר באן אנקטע כ'בז אלפגאלין [ל]דיהם ומא קדרת עלי\nשי אעלמתך דאלך",
+            "start_char": 477,
+            "end_char": 625,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "דכרת מא תפצ'לת בה אנך תקף פי שד אלאעדאל ויאמולאי אנת תערף\nאן אקאמתי הנא אכתרהא לשג'לכם ולו כרגנא כלנא אנקטעת אשגאלנא ען מצר לא מן\nיקבץ' עדל ולא מן יתקאצ'א ולא מן יביע פאדא אכפיתמוני אלמונה נגז שגלנא גמיע\nאן שא אללה ואנמא יראדו אלאצחאב להד'א תשד מני ונשד מנך פננתגז",
+            "start_char": 626,
+            "end_char": 879,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "וקד רד סידי\nאבו אלכיר בן תמאם שקה כ'אם ד'י'נ' ו>' ות'מן וועד באנה יחאסבני וירד עלי אלבאקי ארגו יפעל",
+            "start_char": 880,
+            "end_char": 977,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "ומא דכרתה מן ביע אלמתאע מא לה פי הד'א אלוקת וגה ותמן אלשמע לאלאן מא קבצ'תה לאנה\nיריד פראג יומין ג' לעלי אד/א תפרג'ת מן אלסאחל אן שא אללה אלאזמה פיה",
+            "start_char": 978,
+            "end_char": 1137,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "אלמרגאן לאלאן מא\nאביע ומא הו שי ידפע לי אנא מנה חבה ולא לך קאל הו אנא אשתרי בה אעלמתך דלך",
+            "start_char": 1138,
+            "end_char": 1228,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ולם\nיביע מן אלשש לאלאן שי ולא הד'א וקתה ואנמא חבסה עלי אנה יביעה פי פורים לעל",
+            "start_char": 1229,
+            "end_char": 1316,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "תתחאיא [בה]\nאלאסואק שי ואנא\nאשיר עליך יאמולאי\nאן תנגז פי אשג'אלך\nולא תנצ'ר לתואני\nסידי אבי אסחק\nברהון באלבחר\nענדה ללכעב",
+            "start_char": 1334,
+            "end_char": 1458,
+            "categories": [
+              "Advice"
+            ]
+          },
+          {
+            "text": "דכרת חאל אלזפת\nמצ'ית לכלפון נטלבו\nבתלתיין מא באע\nבאלאסכנדריה\nמן קבל אן יערף\nאני",
+            "start_char": 1459,
+            "end_char": 1542,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אטאלבה בביע\nאלאסכנדריה\nקאל לי וחק לו\nסאלתני פי\nחבה לאני מא\nבעת אלא סהמי\nיעני ביע מצר\nוהו יסוי אליום\nב' י'ד' פלמא\nערף אני בביע\nאלאסכנדריה\nאטאלבה קאל חתי\nיפאצלני פי אל\nאוזאן ונדפע\nאעלמתך דלך\nוקד",
+            "start_char": 1557,
+            "end_char": 1718,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "כנת אנפדת לתניס מקטע לי ולו ערפתני אנפדת אלמקטעין מתאעך מעהם ואנא אנפדהם\nאן שא אללה",
+            "start_char": 1727,
+            "end_char": 1820,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ותעמל עלי אלאנגאז ותגי תתכ'לץ מן הנא ותרא איש תעמל פי אלמרגאן ואלשש",
+            "start_char": 1821,
+            "end_char": 1895,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד\nיאסידי טולת קעודך ת'ם אליום ג' שהור ושי לו כאן לך שרא בוציר כלהא ולא תתואנא לאכר אל\nוקת מת'ל עאם אול אנת עאם אול מא כאן לך שג'ל במצר ואלסעה אנת מלבט מן כל וגה ואקל\nמן הד'א למתלך כפאיה",
+            "start_char": 1896,
+            "end_char": 2095,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "קראת עליך אתם אלסלם וסידי אבי עמראן מוסי אלסלם וגמיע אצחאבנא אלסלם\nויוסף וואלדתה יקריוך אלסלם",
+            "start_char": 2096,
+            "end_char": 2201,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "לסידי וריסי אבי אברהים עיאש בן צדקה נ'ע'                      מן נהראי בן נסים נ'ע'\nאטאל אללה בקאה ואדאם סלאמתה וסעאדתה                     בוציר אן שא אללה\nע׳׳א",
+            "start_char": 2211,
+            "end_char": 2373,
+            "categories": [
+              "Correspondence"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "580": {
+    "total_characters": 2604,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.29936079545454547,
+        "Behavior of Associates": 0.08132102272727272,
+        "Information": 0.0,
+        "Correspondence": 0.4250710227272727,
+        "Travels": 0.0,
+        "Personal, Familial, Communal News": 0.1942471590909091,
+        "Accounts": 0.0,
+        "Advice": 0.0,
+        "Legal Actions": 0.0,
+        "Government Relations": 0.0
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "כתאבי יאשיכי וסידי ומולאי אטאל אללה בקאך ואדאם עזך ותאידך ונ[עמאך]\nוסעאדתך וסלאמתך מן אלמסתקר ען סלאמה פי אלנפס לא עדמתהא\nבבקאך",
+          "start_char": 0,
+          "end_char": 157,
+          "category": "Correspondence"
+        },
+        {
+          "text": "תקדמת כתבי אלי מולאי עדה נהניה במא תפצל אללה מ[גיה]\nסלאמתה מן אלקדס אלמבארכ אתקבל אללה מנה דעאה וגעל מציה כפ[רה]\nוסליחה ולא כייב דעאה",
+          "start_char": 158,
+          "end_char": 301,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וערפתה שכרי ודעאיי לה במא תפצל עלי[ה]\nבה מן אלגמיל קדים וחדית",
+          "start_char": 302,
+          "end_char": 368,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ומא קבצתה מן סידי אבי אלפרג מרדוך\nוהי ה אדננ ונצף אלדי תפצל בהא מולאי אלשיך אלגליל אחיאה אללה וא[חיא]\nולדה ולא עדמת תפצלה",
+          "start_char": 369,
+          "end_char": 508,
+          "category": "Transactions"
+        },
+        {
+          "text": "ואסתגאב מני פיה נפי ולדה צאלח אלדעא\nלאנהא מא וצלת אליי אלא ואנא תחת ציקה והי מן אללה ומנה ומן מ[חבה]\nאלגמיל לא עדמתך",
+          "start_char": 509,
+          "end_char": 641,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ותקבל מני פיך צאלח אלדעא",
+          "start_char": 642,
+          "end_char": 670,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "וארפתך באני עול[ת]\nאן וצלת כתבי אליך אלי וצול יצחק בכתאבך תדכר תעריפך פעלמ[ת]\nאן מא וצל אליך לא כתאב ולא כבר",
+          "start_char": 671,
+          "end_char": 784,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וכדי כתבת כתב כתירה למ[ולאי]\nאלשיך אלגליל פמא עלמת אן כאן וצלת",
+          "start_char": 785,
+          "end_char": 854,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ומצית בכתאבך אלי סידי [אבי]\nיצחק אברהים בן אלאסכנדראני עלי אני נאכד אלדי ענדה מודע מ[ן]",
+          "start_char": 855,
+          "end_char": 947,
+          "category": "Transactions"
+        },
+        {
+          "text": "אלשיך אלגליל מן אלעין\nואלורק //ונסלמה ליצחק//",
+          "start_char": 964,
+          "end_char": 1014,
+          "category": "Transactions"
+        },
+        {
+          "text": "פקאל אן חסון בן אלק[\nדפע אליי צרה ורק וצרה וא[מרנא]\nאן לא נדפעהא לאחד אלא בכתאבה",
+          "start_char": 1015,
+          "end_char": 1104,
+          "category": "Transactions"
+        },
+        {
+          "text": "וכדי אלשיך אבי הרון דפע אליי צרה\nעין וקאל לי לא תסלמהא אלא בכתאב\nמולאי אלשיך אלגליל ומא נדפעהא\nאלא בכתאב מולאי אלשיך [אלגליל]\nאו בכתאב חמוד[ו]\nכמא א[מרנא]",
+          "start_char": 1105,
+          "end_char": 1268,
+          "category": "Transactions"
+        },
+        {
+          "text": "ואן גא כתאב מולאי\nאלשיך אלגליל אליה ואמרני\nבאלטלוע בהא פאנא אפעל",
+          "start_char": 1282,
+          "end_char": 1353,
+          "category": "Transactions"
+        },
+        {
+          "text": "ומא געלני לם נאכדהא\nמן אלאול לאנהא סלמת אליי\nאלא לא נכון מתעדי פנלאם\nעלי דלך ולא ינסב אני\nאעדית עלי מא לם\n[א]ומר בה",
+          "start_char": 1354,
+          "end_char": 1481,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ואנא\nאסאל",
+          "start_char": 1482,
+          "end_char": 1493,
+          "category": "Correspondence"
+        },
+        {
+          "text": "מולאי אן ידכר בי ענד מ><לאי אלשיך אלגליל ויערפה דעאי לה ולולדה ושכרי",
+          "start_char": 1502,
+          "end_char": 1579,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וקד כאן חרסה\nאללה אדא וצל אליי כתאבה נתגמל ביה ענד אלכאץ ואלעאם וננתפע בה אכתר מן אלדינ ואלדרהם",
+          "start_char": 1580,
+          "end_char": 1686,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וחצלת מסתנחש לכתבה לאני יסאלוני אלנאס פלא נערף מא נגיבהם",
+          "start_char": 1687,
+          "end_char": 1750,
+          "category": "Correspondence"
+        },
+        {
+          "text": "פאן ראי מולאי אן ידכ[רני]\nבכתאב פאללה ידכר לה זכות אלאבא ומא יעמלה מע ישראל מן אלחסדים לא ינסאה אל[לה]",
+          "start_char": 1751,
+          "end_char": 1862,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ומא יעמלה מעי לאני עבדה וצניעתה",
+          "start_char": 1863,
+          "end_char": 1899,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ואלעגוז עבדתה הי באלחאל אלדי יערף וקד דהבת מנה[א]\nאלעין אלואחדה והי צרירה ואלאכרי פי שדה",
+          "start_char": 1900,
+          "end_char": 2001,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "פאן קדר לי מולאי עלי תותיה או עלי שי פמא י[נסא]\nאללה גמילה דכרא לם יזל",
+          "start_char": 2002,
+          "end_char": 2084,
+          "category": "Transactions"
+        },
+        {
+          "text": "ווצל אליי מע יצחק סבע עשר הלילגה ואנא ענד וצולה נסלם תמנה[א]\nפלא עדמת אהתמאמה",
+          "start_char": 2085,
+          "end_char": 2174,
+          "category": "Transactions"
+        },
+        {
+          "text": "וינפד אליי ויציף אלי מא ענדי בקירט דהב צבר אסקטרי יכ[ון]\nגייד",
+          "start_char": 2175,
+          "end_char": 2243,
+          "category": "Transactions"
+        },
+        {
+          "text": "וישרפני בכתאבה וכברה אטאבה אללה",
+          "start_char": 2244,
+          "end_char": 2278,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וכץ נפסך אלסלאם",
+          "start_char": 2279,
+          "end_char": 2296,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ועלי סידי אבי יצחק ברה[ון]\nאלסלאם",
+          "start_char": 2297,
+          "end_char": 2332,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ועלי סידי אבי אלפצל עיאש אלסלאם",
+          "start_char": 2333,
+          "end_char": 2367,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ותערף סידי אבי יצחק ברהון אן אלעגוז תופית אל[ ]\nואן אלצביה ענד מרה עמהא ואן אלתי להא מצאן אלי ענד וצולה והי מא תקצר מעה[א]",
+          "start_char": 2368,
+          "end_char": 2508,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "וקד חצלת אלצביה מצאנה פי כל נעמה אכיר ממא כאנת פי איאם אבוהא",
+          "start_char": 2509,
+          "end_char": 2578,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ואנא\nנסאלך אן תשרפני בכתאב מן ענדך",
+          "start_char": 2579,
+          "end_char": 2619,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ונסין תלמידך יקרא עליך אפצל אלסלאם ועלי מ[ן]\nתחוטה ענאיתך אלסלאם",
+          "start_char": 2620,
+          "end_char": 2692,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "וכדי אבי אלפרג ישועה בן יוסף יקרא עליך אלסלאם",
+          "start_char": 2693,
+          "end_char": 2744,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "[ל]שיכי וסידי ומולאי אבי יחיי נהראי בן נסים מן שאכר תפצלה ואיאדיה יוסף בן ישועה נע אלאטראבלסי\nאטאל אללה בקאה ואדאם עזה ותאידה",
+          "start_char": 2768,
+          "end_char": 2909,
+          "category": "Correspondence"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "כתאבי יאשיכי וסידי ומולאי אטאל אללה בקאך ואדאם עזך ותאידך ונ[עמאך]\nוסעאדתך וסלאמתך מן אלמסתקר ען סלאמה פי אלנפס לא עדמתהא\nבבקאך",
+            "start_char": 0,
+            "end_char": 157,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "תקדמת כתבי אלי מולאי עדה נהניה במא תפצל אללה מ[גיה]\nסלאמתה מן אלקדס אלמבארכ אתקבל אללה מנה דעאה וגעל מציה כפ[רה]\nוסליחה ולא כייב דעאה",
+            "start_char": 158,
+            "end_char": 301,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וערפתה שכרי ודעאיי לה במא תפצל עלי[ה]\nבה מן אלגמיל קדים וחדית",
+            "start_char": 302,
+            "end_char": 368,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ומא קבצתה מן סידי אבי אלפרג מרדוך\nוהי ה אדננ ונצף אלדי תפצל בהא מולאי אלשיך אלגליל אחיאה אללה וא[חיא]\nולדה ולא עדמת תפצלה",
+            "start_char": 369,
+            "end_char": 508,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ואסתגאב מני פיה נפי ולדה צאלח אלדעא\nלאנהא מא וצלת אליי אלא ואנא תחת ציקה והי מן אללה ומנה ומן מ[חבה]\nאלגמיל לא עדמתך",
+            "start_char": 509,
+            "end_char": 641,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ותקבל מני פיך צאלח אלדעא",
+            "start_char": 642,
+            "end_char": 670,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "וארפתך באני עול[ת]\nאן וצלת כתבי אליך אלי וצול יצחק בכתאבך תדכר תעריפך פעלמ[ת]\nאן מא וצל אליך לא כתאב ולא כבר",
+            "start_char": 671,
+            "end_char": 784,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וכדי כתבת כתב כתירה למ[ולאי]\nאלשיך אלגליל פמא עלמת אן כאן וצלת",
+            "start_char": 785,
+            "end_char": 854,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ומצית בכתאבך אלי סידי [אבי]\nיצחק אברהים בן אלאסכנדראני עלי אני נאכד אלדי ענדה מודע מ[ן]",
+            "start_char": 855,
+            "end_char": 947,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "אלשיך אלגליל מן אלעין\nואלורק //ונסלמה ליצחק//",
+            "start_char": 964,
+            "end_char": 1014,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "פקאל אן חסון בן אלק[\nדפע אליי צרה ורק וצרה וא[מרנא]\nאן לא נדפעהא לאחד אלא בכתאבה",
+            "start_char": 1015,
+            "end_char": 1104,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וכדי אלשיך אבי הרון דפע אליי צרה\nעין וקאל לי לא תסלמהא אלא בכתאב\nמולאי אלשיך אלגליל ומא נדפעהא\nאלא בכתאב מולאי אלשיך [אלגליל]\nאו בכתאב חמוד[ו]\nכמא א[מרנא]",
+            "start_char": 1105,
+            "end_char": 1268,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ואן גא כתאב מולאי\nאלשיך אלגליל אליה ואמרני\nבאלטלוע בהא פאנא אפעל",
+            "start_char": 1282,
+            "end_char": 1353,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ומא געלני לם נאכדהא\nמן אלאול לאנהא סלמת אליי\nאלא לא נכון מתעדי פנלאם\nעלי דלך ולא ינסב אני\nאעדית עלי מא לם\n[א]ומר בה",
+            "start_char": 1354,
+            "end_char": 1481,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ואנא\nאסאל",
+            "start_char": 1482,
+            "end_char": 1493,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "מולאי אן ידכר בי ענד מ><לאי אלשיך אלגליל ויערפה דעאי לה ולולדה ושכרי",
+            "start_char": 1502,
+            "end_char": 1579,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וקד כאן חרסה\nאללה אדא וצל אליי כתאבה נתגמל ביה ענד אלכאץ ואלעאם וננתפע בה אכתר מן אלדינ ואלדרהם",
+            "start_char": 1580,
+            "end_char": 1686,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וחצלת מסתנחש לכתבה לאני יסאלוני אלנאס פלא נערף מא נגיבהם",
+            "start_char": 1687,
+            "end_char": 1750,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "פאן ראי מולאי אן ידכ[רני]\nבכתאב פאללה ידכר לה זכות אלאבא ומא יעמלה מע ישראל מן אלחסדים לא ינסאה אל[לה]",
+            "start_char": 1751,
+            "end_char": 1862,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ומא יעמלה מעי לאני עבדה וצניעתה",
+            "start_char": 1863,
+            "end_char": 1899,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ואלעגוז עבדתה הי באלחאל אלדי יערף וקד דהבת מנה[א]\nאלעין אלואחדה והי צרירה ואלאכרי פי שדה",
+            "start_char": 1900,
+            "end_char": 2001,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "פאן קדר לי מולאי עלי תותיה או עלי שי פמא י[נסא]\nאללה גמילה דכרא לם יזל",
+            "start_char": 2002,
+            "end_char": 2084,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ווצל אליי מע יצחק סבע עשר הלילגה ואנא ענד וצולה נסלם תמנה[א]\nפלא עדמת אהתמאמה",
+            "start_char": 2085,
+            "end_char": 2174,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וינפד אליי ויציף אלי מא ענדי בקירט דהב צבר אסקטרי יכ[ון]\nגייד",
+            "start_char": 2175,
+            "end_char": 2243,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וישרפני בכתאבה וכברה אטאבה אללה",
+            "start_char": 2244,
+            "end_char": 2278,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וכץ נפסך אלסלאם",
+            "start_char": 2279,
+            "end_char": 2296,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ועלי סידי אבי יצחק ברה[ון]\nאלסלאם",
+            "start_char": 2297,
+            "end_char": 2332,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ועלי סידי אבי אלפצל עיאש אלסלאם",
+            "start_char": 2333,
+            "end_char": 2367,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ותערף סידי אבי יצחק ברהון אן אלעגוז תופית אל[ ]\nואן אלצביה ענד מרה עמהא ואן אלתי להא מצאן אלי ענד וצולה והי מא תקצר מעה[א]",
+            "start_char": 2368,
+            "end_char": 2508,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "וקד חצלת אלצביה מצאנה פי כל נעמה אכיר ממא כאנת פי איאם אבוהא",
+            "start_char": 2509,
+            "end_char": 2578,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ואנא\nנסאלך אן תשרפני בכתאב מן ענדך",
+            "start_char": 2579,
+            "end_char": 2619,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ונסין תלמידך יקרא עליך אפצל אלסלאם ועלי מ[ן]\nתחוטה ענאיתך אלסלאם",
+            "start_char": 2620,
+            "end_char": 2692,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "וכדי אבי אלפרג ישועה בן יוסף יקרא עליך אלסלאם",
+            "start_char": 2693,
+            "end_char": 2744,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "[ל]שיכי וסידי ומולאי אבי יחיי נהראי בן נסים מן שאכר תפצלה ואיאדיה יוסף בן ישועה נע אלאטראבלסי\nאטאל אללה בקאה ואדאם עזה ותאידה",
+            "start_char": 2768,
+            "end_char": 2909,
+            "categories": [
+              "Correspondence"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "584": {
+    "total_characters": 5398,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.263023493360572,
+        "Behavior of Associates": 0.02400408580183861,
+        "Information": 0.0965270684371808,
+        "Correspondence": 0.23748723186925433,
+        "Travels": 0.0,
+        "Personal, Familial, Communal News": 0.37895812053115424,
+        "Accounts": 0.0,
+        "Advice": 0.0,
+        "Legal Actions": 0.0,
+        "Government Relations": 0.0
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "כתאבי אטאל אללה בקא מולאי אלשיך אלאגל ואדאם תאידה וסלאמתה \nונעמאה וכבת אעדאה מן אלמסתקר ל''ח בקי מן תמוז כתמה \nאללה עליך באחסן כאתמה",
+          "start_char": 0,
+          "end_char": 161,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אעלם מולאי אן לי מדה טוילה לם \nארא לך כתאב",
+          "start_char": 162,
+          "end_char": 207,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וקד כנת כתבת אליך כתאב מע סידי חסן אלאמדי \nולם ארא לך מן דלך אלזמאן כתאב",
+          "start_char": 208,
+          "end_char": 283,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ארגו כיר אן שא אללה",
+          "start_char": 284,
+          "end_char": 305,
+          "category": "Transactions"
+        },
+        {
+          "text": "ואנא \nאסל כל מן יצל ען חאל מולאי ומא יבלגני אלי כל מא נסר \nביה וללה אלחמד",
+          "start_char": 306,
+          "end_char": 384,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ולקד ענדנא ג'מאעת אלמג'ארבה מן אלפרח \nואלסרור מא לא אצפה מן מא יבלג'נא מן חאל סידנא אלריס \nאלגליל מ' ור' מבורך בן כבוד מ ור' סעיד עוז בית ישראל ירום \nהודו",
+          "start_char": 385,
+          "end_char": 543,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "וקד סאלת אלשיך אבי אלחסן צהרי ינוב עני פי כתאבה לך",
+          "start_char": 544,
+          "end_char": 602,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וכנת עלי אני אכון מוצע כתאבי אלי אן וצלת בעץ אלמררכב\nוכאן לי פיהא שי אקבצה",
+          "start_char": 603,
+          "end_char": 683,
+          "category": "Transactions"
+        },
+        {
+          "text": "ווצלת אלמרכבין אלדי כאנת סאירה\nאלי טראבלס וקבצ'ת לך אלקפיפה אלדי כאנת לך מע אבן אל\nזלאק",
+          "start_char": 684,
+          "end_char": 772,
+          "category": "Transactions"
+        },
+        {
+          "text": "ואמא אלסלה אלדי כאנת מע אבן אלפלס עואץ לם יצל אל\nמרכב אלי יומי האדה ואנא אקבצהא לך מנה אן שא אללה",
+          "start_char": 773,
+          "end_char": 876,
+          "category": "Transactions"
+        },
+        {
+          "text": "ואל\nקפיפה אלדי כאנת לך מע אלברקי פי מרכב אלצלטאן רגע\nאלצבי ודכר לי אנה תרכהא מע הלאל ואוצאה ידפעהא\nאלי אבן אכתי",
+          "start_char": 877,
+          "end_char": 1003,
+          "category": "Transactions"
+        },
+        {
+          "text": "אעלמת מולאי דלך",
+          "start_char": 1004,
+          "end_char": 1022,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וכל מן לה פי אלמראכב\nשי הו תחת מא יעלמה אללה",
+          "start_char": 1023,
+          "end_char": 1076,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד אתצל בנא אן בקית אלמראכב\nתרג'ע ואן מא תם אחד יקדר עלי אלתבציר",
+          "start_char": 1077,
+          "end_char": 1154,
+          "category": "Information"
+        },
+        {
+          "text": "וג'מיע אלבצ'איע\nכאסדה ואקפה",
+          "start_char": 1155,
+          "end_char": 1185,
+          "category": "Information"
+        },
+        {
+          "text": "ואמא אלניל קד חט תלת אלמאל ווצלו אלרום דכרו\nאנה פי קצנטינה(!) כאסד ואקף",
+          "start_char": 1186,
+          "end_char": 1268,
+          "category": "Information"
+        },
+        {
+          "text": "ואנא תחת ציק צדר אן עצים\nאללה יפרג' ברחמתה",
+          "start_char": 1269,
+          "end_char": 1316,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "קראת עלי מולאי אפצל אלסלאם",
+          "start_char": 1317,
+          "end_char": 1347,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ועלי נסים\nולדה אלסלאם",
+          "start_char": 1348,
+          "end_char": 1372,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ואלשיך אבו עמראן יכצה מני באלסלאם",
+          "start_char": 1373,
+          "end_char": 1409,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ונהראי ולדי\nיקבל ידה ויכצה באלסלאם",
+          "start_char": 1410,
+          "end_char": 1451,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ואנא אסל חצרתה אדא אג'תמע ⟦במולאנא⟧ //בסידנא\\\\ אלרייס אלאגל \nעוז בית ישראל ירום הודו יערפה פרחי ומסרתי ופרח \nגמיע ישראל באעאדה ריאסתה אליה",
+          "start_char": 1460,
+          "end_char": 1628,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "אללה יג'עלהא ריאסה אן \nדאימה וסעאדה מתצלה ויערפה ברכתהא ויעינה\nעליהא ויגעל מא אכתרה ויפעל פי דלך",
+          "start_char": 1629,
+          "end_char": 1734,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "מולאי חסב מא \nיראה וימכנה פי דלך אלוקת",
+          "start_char": 1735,
+          "end_char": 1779,
+          "category": "Transactions"
+        },
+        {
+          "text": "פעל מנעמא מתפצלא לא \nעדמתה ולא כלות מנה",
+          "start_char": 1780,
+          "end_char": 1827,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ושלום",
+          "start_char": 1828,
+          "end_char": 1834,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "חצרה מולאי החבר גדול הישיבה                          שאכרה ומחבה נתן בן נהראי נ''ע\nמרנו ורבנו נהראי ביר נסים ז''ל \nאטאל אללה בקאה ואדאם עזה",
+          "start_char": 1852,
+          "end_char": 2009,
+          "category": "Personal, Familial, Communal News"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "כתאבי אטאל אללה בקא מולאי אלשיך אלאגל ואדאם תאידה וסלאמתה \nונעמאה וכבת אעדאה מן אלמסתקר ל''ח בקי מן תמוז כתמה \nאללה עליך באחסן כאתמה",
+            "start_char": 0,
+            "end_char": 161,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אעלם מולאי אן לי מדה טוילה לם \nארא לך כתאב",
+            "start_char": 162,
+            "end_char": 207,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וקד כנת כתבת אליך כתאב מע סידי חסן אלאמדי \nולם ארא לך מן דלך אלזמאן כתאב",
+            "start_char": 208,
+            "end_char": 283,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ארגו כיר אן שא אללה",
+            "start_char": 284,
+            "end_char": 305,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ואנא \nאסל כל מן יצל ען חאל מולאי ומא יבלגני אלי כל מא נסר \nביה וללה אלחמד",
+            "start_char": 306,
+            "end_char": 384,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ולקד ענדנא ג'מאעת אלמג'ארבה מן אלפרח \nואלסרור מא לא אצפה מן מא יבלג'נא מן חאל סידנא אלריס \nאלגליל מ' ור' מבורך בן כבוד מ ור' סעיד עוז בית ישראל ירום \nהודו",
+            "start_char": 385,
+            "end_char": 543,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "וקד סאלת אלשיך אבי אלחסן צהרי ינוב עני פי כתאבה לך",
+            "start_char": 544,
+            "end_char": 602,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וכנת עלי אני אכון מוצע כתאבי אלי אן וצלת בעץ אלמררכב\nוכאן לי פיהא שי אקבצה",
+            "start_char": 603,
+            "end_char": 683,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ווצלת אלמרכבין אלדי כאנת סאירה\nאלי טראבלס וקבצ'ת לך אלקפיפה אלדי כאנת לך מע אבן אל\nזלאק",
+            "start_char": 684,
+            "end_char": 772,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ואמא אלסלה אלדי כאנת מע אבן אלפלס עואץ לם יצל אל\nמרכב אלי יומי האדה ואנא אקבצהא לך מנה אן שא אללה",
+            "start_char": 773,
+            "end_char": 876,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ואל\nקפיפה אלדי כאנת לך מע אלברקי פי מרכב אלצלטאן רגע\nאלצבי ודכר לי אנה תרכהא מע הלאל ואוצאה ידפעהא\nאלי אבן אכתי",
+            "start_char": 877,
+            "end_char": 1003,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "אעלמת מולאי דלך",
+            "start_char": 1004,
+            "end_char": 1022,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וכל מן לה פי אלמראכב\nשי הו תחת מא יעלמה אללה",
+            "start_char": 1023,
+            "end_char": 1076,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד אתצל בנא אן בקית אלמראכב\nתרג'ע ואן מא תם אחד יקדר עלי אלתבציר",
+            "start_char": 1077,
+            "end_char": 1154,
+            "categories": [
+              "Information"
+            ]
+          },
+          {
+            "text": "וג'מיע אלבצ'איע\nכאסדה ואקפה",
+            "start_char": 1155,
+            "end_char": 1185,
+            "categories": [
+              "Information"
+            ]
+          },
+          {
+            "text": "ואמא אלניל קד חט תלת אלמאל ווצלו אלרום דכרו\nאנה פי קצנטינה(!) כאסד ואקף",
+            "start_char": 1186,
+            "end_char": 1268,
+            "categories": [
+              "Information"
+            ]
+          },
+          {
+            "text": "ואנא תחת ציק צדר אן עצים\nאללה יפרג' ברחמתה",
+            "start_char": 1269,
+            "end_char": 1316,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "קראת עלי מולאי אפצל אלסלאם",
+            "start_char": 1317,
+            "end_char": 1347,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ועלי נסים\nולדה אלסלאם",
+            "start_char": 1348,
+            "end_char": 1372,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ואלשיך אבו עמראן יכצה מני באלסלאם",
+            "start_char": 1373,
+            "end_char": 1409,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ונהראי ולדי\nיקבל ידה ויכצה באלסלאם",
+            "start_char": 1410,
+            "end_char": 1451,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ואנא אסל חצרתה אדא אג'תמע ⟦במולאנא⟧ //בסידנא\\\\ אלרייס אלאגל \nעוז בית ישראל ירום הודו יערפה פרחי ומסרתי ופרח \nגמיע ישראל באעאדה ריאסתה אליה",
+            "start_char": 1460,
+            "end_char": 1628,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "אללה יג'עלהא ריאסה אן \nדאימה וסעאדה מתצלה ויערפה ברכתהא ויעינה\nעליהא ויגעל מא אכתרה ויפעל פי דלך",
+            "start_char": 1629,
+            "end_char": 1734,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "מולאי חסב מא \nיראה וימכנה פי דלך אלוקת",
+            "start_char": 1735,
+            "end_char": 1779,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "פעל מנעמא מתפצלא לא \nעדמתה ולא כלות מנה",
+            "start_char": 1780,
+            "end_char": 1827,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ושלום",
+            "start_char": 1828,
+            "end_char": 1834,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "חצרה מולאי החבר גדול הישיבה                          שאכרה ומחבה נתן בן נהראי נ''ע\nמרנו ורבנו נהראי ביר נסים ז''ל \nאטאל אללה בקאה ואדאם עזה",
+            "start_char": 1852,
+            "end_char": 2009,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "586": {
+    "total_characters": 9435,
+    "mode": "single",
+    "codings": {
+      "claude35": {
+        "Transactions": 0.4296452194828623,
+        "Behavior of Associates": 0.08478653036680697,
+        "Information": 0.013830426939266387,
+        "Correspondence": 0.1337943475646422,
+        "Travels": 0.0,
+        "Personal, Familial, Communal News": 0.25045099218280215,
+        "Accounts": 0.040889957907396274,
+        "Advice": 0.0,
+        "Legal Actions": 0.021346963319302466,
+        "Government Relations": 0.025255562236921228
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "כתאבי אטאל אללה בקא מולאי אלשיך ואדאם תאידה וסלאמתה ונעמאה \nוכבת אעדאה לי' כלון מן כסלו כתמה אללה עלי מולאי באחסן כאתמה",
+          "start_char": 0,
+          "end_char": 143,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "בעד וצול כתאבה מע אבן אלשופט תדכר סלאמתה ועאפיתה אדאמהא \nאללה לה ברחמתה",
+          "start_char": 144,
+          "end_char": 227,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וקד תקדמת כתבי למולאי משרוחה צחבה מולאי אל \nשיך אבו עמראן סג/ו\\ת הישיבה אדאם אללה עזה",
+          "start_char": 228,
+          "end_char": 325,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ואנפדת לך מעה \nגזך מן אלענבר ואלק' ג'לד דהב מרבע ואלג'רה אלזית אלדי אשתרית \nלך",
+          "start_char": 326,
+          "end_char": 413,
+          "category": "Transactions"
+        },
+        {
+          "text": "וג'ב עליך פיהא דינ' וקירט ואכד אלשיך אבו עמראן ענהא ג' דרא' \nוחמלהא קירטין יכון תמנהא דינ' ותמן",
+          "start_char": 414,
+          "end_char": 512,
+          "category": "Transactions"
+        },
+        {
+          "text": "ארגו מן אללה אן יסמעני סלאמה אל \nג'מיע אן שא אללה",
+          "start_char": 513,
+          "end_char": 567,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "דכרת יאמולאי מא אג'תמעת פיה מע אלשיך אבו\nזכרי סלמה אללה ולם יצל אלי כתאבך בדלך אלי(!) ואלשיך אבו אלסרור\nצאפר ואמא כאן נסאלה מן דלך",
+          "start_char": 568,
+          "end_char": 710,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ואנא אלחסאב אלדי כאן ביני ובין\nשיך אבי אלסרור הו באלמהדיה",
+          "start_char": 711,
+          "end_char": 775,
+          "category": "Accounts"
+        },
+        {
+          "text": "וארג'ו מן אללה אן אלחאל ינצלח\nאן שא אללה בינהם ולא יחתאג' אלי דלך",
+          "start_char": 776,
+          "end_char": 847,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "וקד אעלמני אלשיך אבי אל\nפצל אבן אלרחבי ען קול אלשיך אבי זכרי קאל ואללה מא לי קבל אל\nרג'ל עני גיר אן אלשיך אבי אלסרור מסך לי רחלי האדא וג'ירה\nואנה יסתחכם אללה פי מן אדאה וחקה דלך",
+          "start_char": 848,
+          "end_char": 1041,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "אעלם מולאי סלמה\nאללה מא קאסיתה פי האדה אלמלחפה פלען אללה סאעתהא\nוכאד ידכל ביני ובין צאנעהא אלצלטאן ופרג' לה אלקטן ובקי\nעליה קליל ומא וג'דת לה מתאל ואשתרית לה נצף אוקיה גאבוה פי \nטרפהא והי צחבה חאמל כתאבי האדא",
+          "start_char": 1042,
+          "end_char": 1283,
+          "category": "Transactions"
+        },
+        {
+          "text": "ואלדי וזנת פי גזל וקטן\nואג'רה אלמלחפה דינ' ונצף ותמן",
+          "start_char": 1284,
+          "end_char": 1345,
+          "category": "Transactions"
+        },
+        {
+          "text": "ארגו מן אללה אן תכון מואפקה\nללג'רץ'",
+          "start_char": 1346,
+          "end_char": 1387,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד כנת קבצת לך מן כרי אלדאר ⟦דינרי⟧ ד' דנא' אלי \nתלת",
+          "start_char": 1388,
+          "end_char": 1449,
+          "category": "Transactions"
+        },
+        {
+          "text": "אכרג'ת ענך פי אלגרב מלחפה וזית וקפאר ג' דנא'",
+          "start_char": 1450,
+          "end_char": 1500,
+          "category": "Transactions"
+        },
+        {
+          "text": "בקי למולאי ⟦דינא⟧ תלתיי דינ'",
+          "start_char": 1501,
+          "end_char": 1534,
+          "category": "Accounts"
+        },
+        {
+          "text": "וקד את'רת לך מא קבצתה ומא\nאכרג'תה",
+          "start_char": 1535,
+          "end_char": 1574,
+          "category": "Accounts"
+        },
+        {
+          "text": "ואעלם מולאי אן תקדם כתאבי אליה במא פעלתה \nפי אמר אלדאר ומצית ללצמדה ואעלמתהא מא דפע לך\nפיהא ומא תג'ד לדארך מתלהא לא סימא אן אסמהא\nענד אלג'יראן אנהא להא פלו זהקת מנהא מא עדם\nמן ינזל פיהא",
+          "start_char": 1575,
+          "end_char": 1795,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד לייסת לך ביהא אלי אן ג'אבת לי ג' דנא' \nמנהא דינרין וסדס עין כ' קירט ורק אלגמיע ג' דנא' \nוהי צחבה חאמל כתאבי האדא",
+          "start_char": 1796,
+          "end_char": 1914,
+          "category": "Transactions"
+        },
+        {
+          "text": "תקבצהא מנה",
+          "start_char": 1923,
+          "end_char": 1935,
+          "category": "Transactions"
+        },
+        {
+          "text": "דכרת יאמולאי אנפאד אלזית אלחאר וקד \nאעלמת מולאי אן מא ענדי מא נסתעמל",
+          "start_char": 1936,
+          "end_char": 2016,
+          "category": "Transactions"
+        },
+        {
+          "text": "פאחב אל\nג'רה אלדי וצלת אליך מע מולאי אלסגלת תמלאהא לי \nותנפדהא לי",
+          "start_char": 2017,
+          "end_char": 2098,
+          "category": "Transactions"
+        },
+        {
+          "text": "וארגו אנהא מני באלקרב",
+          "start_char": 2099,
+          "end_char": 2123,
+          "category": "Transactions"
+        },
+        {
+          "text": "דכרת יאמולאי\nאדאם אללה עזך אמר אלעקיק ואלדי לצהרי חול ל' דינ' \nוהו אלדי ישתרי בהא לעל עקיק אחמר גיד אגוד מא \nתקדר עליה מתפצ'לא",
+          "start_char": 2124,
+          "end_char": 2276,
+          "category": "Transactions"
+        },
+        {
+          "text": "ואמא בצאט ק''נ דינ' מא ענדה \nהאדא אלקדר",
+          "start_char": 2277,
+          "end_char": 2323,
+          "category": "Information"
+        },
+        {
+          "text": "ואעלמך יאמולאי אן אנפדת צחבה סידי \nאבו עלי חסון בן עטיה אלוכיל ח' ארטאל חריר קריב מן אל\nכז",
+          "start_char": 2324,
+          "end_char": 2427,
+          "category": "Transactions"
+        },
+        {
+          "text": "וסאלתה אן ידי עליהא אלמכס וכאן גלט לאן מא תחקק\nענדי מא ילזמה אלי אלסעה",
+          "start_char": 2428,
+          "end_char": 2512,
+          "category": "Government Relations"
+        },
+        {
+          "text": "פאחב מן מולאי מעונתי פי\nדלך",
+          "start_char": 2513,
+          "end_char": 2546,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "וקד כתבת לסידי אבו יצחק אברהם אלדרעי פי מתל\nדלך פלא יג'פל ענה ויעלמני פי כתאבה בדלך",
+          "start_char": 2547,
+          "end_char": 2651,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ואחב מן\nמולאי יקרא סלאמי עלי מולאי אלרב' אלגליל ר' יצחק החבר\nויעלמה שוקי אליה ותוחשי מנה",
+          "start_char": 2652,
+          "end_char": 2768,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ויכצה איצא סלאם מולאי\nאלשיך אבי אלחסן צהרי ומולאי אלשיך אבי סהל מכתאר\nיקראה אלסלאם",
+          "start_char": 2769,
+          "end_char": 2870,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "פעל מולאי מנעמא מתפצלא לא עדמתה\nולא כלות מנה",
+          "start_char": 2871,
+          "end_char": 2927,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "תכתץ אפצל אלסלאם",
+          "start_char": 2928,
+          "end_char": 2947,
+          "category": "Correspondence"
+        },
+        {
+          "text": "וקרה עיני נסים אחיאה\nאללה אלסלאם",
+          "start_char": 2948,
+          "end_char": 2984,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "וולדי יקבל ידה והו פי כל נעמה ויסאלה לא יכלינא\nמן דעוה אן חסנה",
+          "start_char": 2985,
+          "end_char": 3056,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "וכדאלך מולאי אבי אלחסן יכץ מולאי אלסלאם",
+          "start_char": 3057,
+          "end_char": 3102,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ואלכבירה תכץ חצרתה אלסלאם",
+          "start_char": 3126,
+          "end_char": 3154,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ואחב תקרא סלאמי \nעלי סידי עמראן ותעלמה אן אכתה פי כל עאפיה \nוגמיע אלאהל פי כל עאפיה ושלום",
+          "start_char": 3155,
+          "end_char": 3256,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "חצרה מולאי אלחבר גדול הישיבה           שאכרה ומחבה            נתן בן נהראי נ''ע\nרבנו נהראי ביר נסים ז''ל \nאטאל אללה בקאה ואדאם סעאדתה",
+          "start_char": 3274,
+          "end_char": 3412,
+          "category": "Personal, Familial, Communal News"
+        }
+      ],
+      "model_codings": {
+        "claude35": [
+          {
+            "text": "כתאבי אטאל אללה בקא מולאי אלשיך ואדאם תאידה וסלאמתה ונעמאה \nוכבת אעדאה לי' כלון מן כסלו כתמה אללה עלי מולאי באחסן כאתמה",
+            "start_char": 0,
+            "end_char": 143,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "בעד וצול כתאבה מע אבן אלשופט תדכר סלאמתה ועאפיתה אדאמהא \nאללה לה ברחמתה",
+            "start_char": 144,
+            "end_char": 227,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וקד תקדמת כתבי למולאי משרוחה צחבה מולאי אל \nשיך אבו עמראן סג/ו\\ת הישיבה אדאם אללה עזה",
+            "start_char": 228,
+            "end_char": 325,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ואנפדת לך מעה \nגזך מן אלענבר ואלק' ג'לד דהב מרבע ואלג'רה אלזית אלדי אשתרית \nלך",
+            "start_char": 326,
+            "end_char": 413,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וג'ב עליך פיהא דינ' וקירט ואכד אלשיך אבו עמראן ענהא ג' דרא' \nוחמלהא קירטין יכון תמנהא דינ' ותמן",
+            "start_char": 414,
+            "end_char": 512,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ארגו מן אללה אן יסמעני סלאמה אל \nג'מיע אן שא אללה",
+            "start_char": 513,
+            "end_char": 567,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "דכרת יאמולאי מא אג'תמעת פיה מע אלשיך אבו\nזכרי סלמה אללה ולם יצל אלי כתאבך בדלך אלי(!) ואלשיך אבו אלסרור\nצאפר ואמא כאן נסאלה מן דלך",
+            "start_char": 568,
+            "end_char": 710,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ואנא אלחסאב אלדי כאן ביני ובין\nשיך אבי אלסרור הו באלמהדיה",
+            "start_char": 711,
+            "end_char": 775,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "וארג'ו מן אללה אן אלחאל ינצלח\nאן שא אללה בינהם ולא יחתאג' אלי דלך",
+            "start_char": 776,
+            "end_char": 847,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "וקד אעלמני אלשיך אבי אל\nפצל אבן אלרחבי ען קול אלשיך אבי זכרי קאל ואללה מא לי קבל אל\nרג'ל עני גיר אן אלשיך אבי אלסרור מסך לי רחלי האדא וג'ירה\nואנה יסתחכם אללה פי מן אדאה וחקה דלך",
+            "start_char": 848,
+            "end_char": 1041,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "אעלם מולאי סלמה\nאללה מא קאסיתה פי האדה אלמלחפה פלען אללה סאעתהא\nוכאד ידכל ביני ובין צאנעהא אלצלטאן ופרג' לה אלקטן ובקי\nעליה קליל ומא וג'דת לה מתאל ואשתרית לה נצף אוקיה גאבוה פי \nטרפהא והי צחבה חאמל כתאבי האדא",
+            "start_char": 1042,
+            "end_char": 1283,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ואלדי וזנת פי גזל וקטן\nואג'רה אלמלחפה דינ' ונצף ותמן",
+            "start_char": 1284,
+            "end_char": 1345,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ארגו מן אללה אן תכון מואפקה\nללג'רץ'",
+            "start_char": 1346,
+            "end_char": 1387,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד כנת קבצת לך מן כרי אלדאר ⟦דינרי⟧ ד' דנא' אלי \nתלת",
+            "start_char": 1388,
+            "end_char": 1449,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "אכרג'ת ענך פי אלגרב מלחפה וזית וקפאר ג' דנא'",
+            "start_char": 1450,
+            "end_char": 1500,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "בקי למולאי ⟦דינא⟧ תלתיי דינ'",
+            "start_char": 1501,
+            "end_char": 1534,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "וקד את'רת לך מא קבצתה ומא\nאכרג'תה",
+            "start_char": 1535,
+            "end_char": 1574,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "ואעלם מולאי אן תקדם כתאבי אליה במא פעלתה \nפי אמר אלדאר ומצית ללצמדה ואעלמתהא מא דפע לך\nפיהא ומא תג'ד לדארך מתלהא לא סימא אן אסמהא\nענד אלג'יראן אנהא להא פלו זהקת מנהא מא עדם\nמן ינזל פיהא",
+            "start_char": 1575,
+            "end_char": 1795,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד לייסת לך ביהא אלי אן ג'אבת לי ג' דנא' \nמנהא דינרין וסדס עין כ' קירט ורק אלגמיע ג' דנא' \nוהי צחבה חאמל כתאבי האדא",
+            "start_char": 1796,
+            "end_char": 1914,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "תקבצהא מנה",
+            "start_char": 1923,
+            "end_char": 1935,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "דכרת יאמולאי אנפאד אלזית אלחאר וקד \nאעלמת מולאי אן מא ענדי מא נסתעמל",
+            "start_char": 1936,
+            "end_char": 2016,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "פאחב אל\nג'רה אלדי וצלת אליך מע מולאי אלסגלת תמלאהא לי \nותנפדהא לי",
+            "start_char": 2017,
+            "end_char": 2098,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וארגו אנהא מני באלקרב",
+            "start_char": 2099,
+            "end_char": 2123,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "דכרת יאמולאי\nאדאם אללה עזך אמר אלעקיק ואלדי לצהרי חול ל' דינ' \nוהו אלדי ישתרי בהא לעל עקיק אחמר גיד אגוד מא \nתקדר עליה מתפצ'לא",
+            "start_char": 2124,
+            "end_char": 2276,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ואמא בצאט ק''נ דינ' מא ענדה \nהאדא אלקדר",
+            "start_char": 2277,
+            "end_char": 2323,
+            "categories": [
+              "Information"
+            ]
+          },
+          {
+            "text": "ואעלמך יאמולאי אן אנפדת צחבה סידי \nאבו עלי חסון בן עטיה אלוכיל ח' ארטאל חריר קריב מן אל\nכז",
+            "start_char": 2324,
+            "end_char": 2427,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וסאלתה אן ידי עליהא אלמכס וכאן גלט לאן מא תחקק\nענדי מא ילזמה אלי אלסעה",
+            "start_char": 2428,
+            "end_char": 2512,
+            "categories": [
+              "Government Relations"
+            ]
+          },
+          {
+            "text": "פאחב מן מולאי מעונתי פי\nדלך",
+            "start_char": 2513,
+            "end_char": 2546,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "וקד כתבת לסידי אבו יצחק אברהם אלדרעי פי מתל\nדלך פלא יג'פל ענה ויעלמני פי כתאבה בדלך",
+            "start_char": 2547,
+            "end_char": 2651,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ואחב מן\nמולאי יקרא סלאמי עלי מולאי אלרב' אלגליל ר' יצחק החבר\nויעלמה שוקי אליה ותוחשי מנה",
+            "start_char": 2652,
+            "end_char": 2768,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ויכצה איצא סלאם מולאי\nאלשיך אבי אלחסן צהרי ומולאי אלשיך אבי סהל מכתאר\nיקראה אלסלאם",
+            "start_char": 2769,
+            "end_char": 2870,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "פעל מולאי מנעמא מתפצלא לא עדמתה\nולא כלות מנה",
+            "start_char": 2871,
+            "end_char": 2927,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "תכתץ אפצל אלסלאם",
+            "start_char": 2928,
+            "end_char": 2947,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "וקרה עיני נסים אחיאה\nאללה אלסלאם",
+            "start_char": 2948,
+            "end_char": 2984,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "וולדי יקבל ידה והו פי כל נעמה ויסאלה לא יכלינא\nמן דעוה אן חסנה",
+            "start_char": 2985,
+            "end_char": 3056,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "וכדאלך מולאי אבי אלחסן יכץ מולאי אלסלאם",
+            "start_char": 3057,
+            "end_char": 3102,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ואלכבירה תכץ חצרתה אלסלאם",
+            "start_char": 3126,
+            "end_char": 3154,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ואחב תקרא סלאמי \nעלי סידי עמראן ותעלמה אן אכתה פי כל עאפיה \nוגמיע אלאהל פי כל עאפיה ושלום",
+            "start_char": 3155,
+            "end_char": 3256,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "חצרה מולאי אלחבר גדול הישיבה           שאכרה ומחבה            נתן בן נהראי נ''ע\nרבנו נהראי ביר נסים ז''ל \nאטאל אללה בקאה ואדאם סעאדתה",
+            "start_char": 3274,
+            "end_char": 3412,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
