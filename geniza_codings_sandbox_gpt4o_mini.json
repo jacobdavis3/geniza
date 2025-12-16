@@ -1,0 +1,810 @@
+{
+  "4726": {
+    "total_characters": 6225,
+    "mode": "single",
+    "codings": {
+      "gpt4o_mini": {
+        "Transactions": 0.5514641925195709,
+        "Behavior of Associates": 0.13308205276891852,
+        "Information": 0.035372571759930416,
+        "Correspondence": 0.10205856770078284,
+        "Travels": 0.0,
+        "Personal, Familial, Communal News": 0.10640765439257756,
+        "Accounts": 0.01188750362423891,
+        "Advice": 0.019425920556683098,
+        "Legal Actions": 0.02029573789504204,
+        "Government Relations": 0.017686285879965208
+      }
+    },
+    "segments": {
+      "base_segments": [
+        {
+          "text": "בשמ רחמ",
+          "start_char": 0,
+          "end_char": 8,
+          "category": null
+        },
+        {
+          "text": "וצל כתאב חצרה אלשיך אלאגל מולאי וכאן אסר כתאב ורד",
+          "start_char": 8,
+          "end_char": 65,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ואבהג כטאב ופד וקראתה ופהמתה וסרני עלם סלאמתה",
+          "start_char": 65,
+          "end_char": 112,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "וצלאח חאלתה וחמדת אלרב עלי דלך כתירא פאסאל אללה אן יסهل",
+          "start_char": 112,
+          "end_char": 179,
+          "category": "Advice"
+        },
+        {
+          "text": "גמע אלשמל ביני ובינה עלי אסר חאל ואנעם באל במנה ורחמתה",
+          "start_char": 179,
+          "end_char": 241,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "אן שאללה דכר מולאי אדאם אללה עזה מא תפצל בה מן ביע אלחריר",
+          "start_char": 241,
+          "end_char": 296,
+          "category": "Information"
+        },
+        {
+          "text": "ואנפד בתמנה משתרא ואנפדה פי מראכב ראשמת (!)",
+          "start_char": 296,
+          "end_char": 347,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד בלגנא אלכבר אן מרכבין ראשמת (!) תלפא ראסא פאן ההקבה יכלף עלינא ועליך",
+          "start_char": 347,
+          "end_char": 408,
+          "category": "Government Relations"
+        },
+        {
+          "text": "פלא יסאל מולאי מה דכל עלי קלבי לחאל רחלך",
+          "start_char": 408,
+          "end_char": 456,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "אלדי מצא לאכן אלבארי יכלף עליך כלף קריב ולא חילה פי מא",
+          "start_char": 456,
+          "end_char": 515,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "קצאה אללה פאמא אלנחאס אלדי אנפדה מולאי צחבה אבו עלי פקד",
+          "start_char": 515,
+          "end_char": 570,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "וצל גמיעה וגא אלזרכואן [[עלי]] צריף עלי אלגרץ אחסן אללה גזאה",
+          "start_char": 570,
+          "end_char": 635,
+          "category": "Transactions"
+        },
+        {
+          "text": "ותולא כפאה דכר מולאי לחאל אלכארדאל ומולאי יתלטף בה",
+          "start_char": 635,
+          "end_char": 678,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ויסתכלץ לנא מנה ולו תהדדה מולאי",
+          "start_char": 678,
+          "end_char": 715,
+          "category": "Correspondence"
+        },
+        {
+          "text": "באן נחן נשמת פי עדן כל מן לנא ענדה שי ולא יופינא איאה פלעל יפזע מן אלשמאת",
+          "start_char": 715,
+          "end_char": 792,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "ואן לם ידפע לנא שי ואלא כתבנא כתאב שמאת חקיק [[ואנפדנאה]]",
+          "start_char": 792,
+          "end_char": 862,
+          "category": "Legal Actions"
+        },
+        {
+          "text": "ואנפדנאה אליה חתא יקף עלי סכאמה",
+          "start_char": 862,
+          "end_char": 903,
+          "category": "Accounts"
+        },
+        {
+          "text": "וקד וצל אלפופל אלאחמר ואלגפנתין אחסן אללה גזאה ויתפצל לא יזיד מולאי",
+          "start_char": 903,
+          "end_char": 973,
+          "category": "Transactions"
+        },
+        {
+          "text": "ינפד לי פופל אחמר לאנה מה הו גיד בל אן חצל פופל אביץ גדיד פלא",
+          "start_char": 973,
+          "end_char": 1045,
+          "category": "Transactions"
+        },
+        {
+          "text": "באס ולא יזיד ינפד לי שין פיה שרכה מע אחד לא פופל",
+          "start_char": 1045,
+          "end_char": 1097,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "ולא בצאעה במשתרא אלא יכץ לכל אנסאן וחדה",
+          "start_char": 1097,
+          "end_char": 1143,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "וכל משתרא וחדה והדה אכבר צניעה תפעלהא מעי",
+          "start_char": 1143,
+          "end_char": 1192,
+          "category": "Transactions"
+        },
+        {
+          "text": "וקד אנפדת אליך אבריק מכסור וכרניב אלוזן סבעה ארטאל גיר רבע תפצל",
+          "start_char": 1192,
+          "end_char": 1257,
+          "category": "Transactions"
+        },
+        {
+          "text": "אעמל לי אבריק בקדרה מן צפרה לאן צפרה צפר מליח יכון",
+          "start_char": 1257,
+          "end_char": 1310,
+          "category": "Transactions"
+        },
+        {
+          "text": "וזן אלאבריק ה' ארטאל כאלץ ואיצא אנפדת י''ח רטל ורבע",
+          "start_char": 1310,
+          "end_char": 1362,
+          "category": "Transactions"
+        },
+        {
+          "text": "צפר קציב אצפר מליח וכמסה ארטאל רצאץ קלעי קאלב",
+          "start_char": 1362,
+          "end_char": 1407,
+          "category": "Transactions"
+        },
+        {
+          "text": "כביר וקטעה רצאץ מצרי מחארה יציף מולאי אלקציב",
+          "start_char": 1407,
+          "end_char": 1439,
+          "category": "Transactions"
+        },
+        {
+          "text": "ואלרצאץ ומא יבקא מן עמל אלאבריק ויסתעמל לעבדה",
+          "start_char": 1439,
+          "end_char": 1476,
+          "category": "Transactions"
+        },
+        {
+          "text": "[[מנארה]] קטעתין זירכואן לצחנין יכון כל זירכואן מן",
+          "start_char": 1476,
+          "end_char": 1507,
+          "category": "Transactions"
+        },
+        {
+          "text": "סבעה עשרה פל עלי עמל אלזירכואן אלדי אנפדת לי יכונו שגל גייד ובאקי אלצפר גמיעה תעמלה לי",
+          "start_char": 1507,
+          "end_char": 1635,
+          "category": "Transactions"
+        },
+        {
+          "text": "מנארה ותכון מנארה מליחה יכון עמודהא מתמן גליל ויכון קאעהא עלי שכץ חסכה אלשמעה בארגל",
+          "start_char": 1635,
+          "end_char": 1737,
+          "category": "Transactions"
+        },
+        {
+          "text": "ותאק ויכון עלי ראסהא סראג נחאס יכון לה טרפין לפתילתין יכון מרכב עלי טרף אלעמוד יטלע וינזל",
+          "start_char": 1737,
+          "end_char": 1899,
+          "category": "Transactions"
+        },
+        {
+          "text": "[[אלעמוד]] אלעמוד קטעה ואלחסכה קטעה ואלסראג קטעה תכון ג קטע מפצלה ואן קדרו",
+          "start_char": 1899,
+          "end_char": 1970,
+          "category": "Transactions"
+        },
+        {
+          "text": "יעמלו אלארגל בלואלב פלא באס פהו אחסן וקד כאן חי",
+          "start_char": 1970,
+          "end_char": 2003,
+          "category": "Transactions"
+        },
+        {
+          "text": "אבו אלפרג אלגבילי עמל מנארה עלי הדה אלצפה פלעל תכון",
+          "start_char": 2003,
+          "end_char": 2070,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "מתלהא ואמא הדה אלסנה פלם יתפק לי אנפאד דהב ולא חריר",
+          "start_char": 2070,
+          "end_char": 2135,
+          "category": "Transactions"
+        },
+        {
+          "text": "בל קד אנפדת סביב והו עשרין דינאר מלכיה דנאניר קדם דהב",
+          "start_char": 2135,
+          "end_char": 2202,
+          "category": "Transactions"
+        },
+        {
+          "text": "טייב תפצל תכרג מנהא אגרה אלנחאס ואלבאקי תשתרי לי בה",
+          "start_char": 2202,
+          "end_char": 2268,
+          "category": "Transactions"
+        },
+        {
+          "text": "קליל ביץ או היל ואן לם יתפק דלך כאן מא ופק אללה סבחאנה",
+          "start_char": 2268,
+          "end_char": 2333,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "וינפד לי מולאי אלגמיע פי אול מרכב יסאפר ותפצל תשתרי לי",
+          "start_char": 2333,
+          "end_char": 2401,
+          "category": "Transactions"
+        },
+        {
+          "text": "גפנתין וסט אכבר מן אלדי אנפדת לי בקליל וגפנה כבירה תאכד",
+          "start_char": 2401,
+          "end_char": 2468,
+          "category": "Transactions"
+        },
+        {
+          "text": "גחלתין מא סקאיתין וקד אנפדת אליך מאלא כטר לה ולא קימה",
+          "start_char": 2468,
+          "end_char": 2526,
+          "category": "Correspondence"
+        },
+        {
+          "text": "והו רבעיתין סכר אביץ וקנינה בשת מחכם מלהא זביב ופי",
+          "start_char": 2526,
+          "end_char": 2592,
+          "category": "Transactions"
+        },
+        {
+          "text": "מזה רטל כחל מגרבי ורטל קצט ורטל זאג ונצף רטל מרתך",
+          "start_char": 2592,
+          "end_char": 2655,
+          "category": "Transactions"
+        },
+        {
+          "text": "וגֹ אואק עלך וכמסה דסות ורק מצרי ואיצא פי זניביל סבעה",
+          "start_char": 2655,
+          "end_char": 2722,
+          "category": "Information"
+        },
+        {
+          "text": "קואלב גבן חלאל אלכל ה שכוץ ואיצא אלנחאס אלדי לי כלה",
+          "start_char": 2722,
+          "end_char": 2787,
+          "category": "Transactions"
+        },
+        {
+          "text": "פי כישה צאר סתה שכוץ וכתבת עלי //כל// שכץ אברהם יגו",
+          "start_char": 2787,
+          "end_char": 2859,
+          "category": "Behavior of Associates"
+        },
+        {
+          "text": "תוגיה יוסף וקד אנפדת אלגמיע ואלעשרין אלדינאר צחבה אלשיך",
+          "start_char": 2859,
+          "end_char": 2921,
+          "category": "Transactions"
+        },
+        {
+          "text": "אחמד אלרבאן בן אבו אלפרג ואיצא פי כריטה פוטתין כתאן",
+          "start_char": 2921,
+          "end_char": 2977,
+          "category": "Correspondence"
+        },
+        {
+          "text": "ללאולאד ושבכתין בעצפר תפצל [[ותוצלהם]] ותקבץ דלך",
+          "start_char": 2977,
+          "end_char": 3034,
+          "category": "Transactions"
+        },
+        {
+          "text": "ותוצלהם לאלשיך אבו אלסרור בן כלוף אלטלחי וכתאבה איצא ועלי אלכריטה",
+          "start_char": 3034,
+          "end_char": 3110,
+          "category": "Correspondence"
+        },
+        {
+          "text": "אסמה ודכר סידי באן פצל לי מן עאם //אול// נחאס לעמל טסתין לשרב",
+          "start_char": 3110,
+          "end_char": 3184,
+          "category": "Transactions"
+        },
+        {
+          "text": "אלמא פינעם באנפאדהם צחבה אלנחאס צחת אלשכוץ סבעה מע כריטה",
+          "start_char": 3184,
+          "end_char": 3248,
+          "category": "Transactions"
+        },
+        {
+          "text": "אבו אלסרור אלטלחי יכץ מולאי עזיז נפסה אפצל אלסלאם ושלום לך",
+          "start_char": 3248,
+          "end_char": 3316,
+          "category": "Correspondence"
+        },
+        {
+          "text": "לכבוד אדוני ואור עיני וענק גרוני מרור אה[בך] ומ[ת]פאר בזכרך",
+          "start_char": 3316,
+          "end_char": 3379,
+          "category": "Personal, Familial, Communal News"
+        },
+        {
+          "text": "אברהם החכם והנבון בן כגק רב פרחיה נע הטוב יוסף בן אברהם יגו נע",
+          "start_char": 3379,
+          "end_char": 3449,
+          "category": "Personal, Familial, Communal News"
+        }
+      ],
+      "model_codings": {
+        "gpt4o_mini": [
+          {
+            "text": "בשמ רחמ",
+            "start_char": 0,
+            "end_char": 8,
+            "categories": []
+          },
+          {
+            "text": "וצל כתאב חצרה אלשיך אלאגל מולאי וכאן אסר כתאב ורד",
+            "start_char": 8,
+            "end_char": 65,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ואבהג כטאב ופד וקראתה ופהמתה וסרני עלם סלאמתה",
+            "start_char": 65,
+            "end_char": 112,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "וצלאח חאלתה וחמדת אלרב עלי דלך כתירא פאסאל אללה אן יסهل",
+            "start_char": 112,
+            "end_char": 179,
+            "categories": [
+              "Advice"
+            ]
+          },
+          {
+            "text": "גמע אלשמל ביני ובינה עלי אסר חאל ואנעם באל במנה ורחמתה",
+            "start_char": 179,
+            "end_char": 241,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "אן שאללה דכר מולאי אדאם אללה עזה מא תפצל בה מן ביע אלחריר",
+            "start_char": 241,
+            "end_char": 296,
+            "categories": [
+              "Information"
+            ]
+          },
+          {
+            "text": "ואנפד בתמנה משתרא ואנפדה פי מראכב ראשמת (!)",
+            "start_char": 296,
+            "end_char": 347,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד בלגנא אלכבר אן מרכבין ראשמת (!) תלפא ראסא פאן ההקבה יכלף עלינא ועליך",
+            "start_char": 347,
+            "end_char": 408,
+            "categories": [
+              "Government Relations"
+            ]
+          },
+          {
+            "text": "פלא יסאל מולאי מה דכל עלי קלבי לחאל רחלך",
+            "start_char": 408,
+            "end_char": 456,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "אלדי מצא לאכן אלבארי יכלף עליך כלף קריב ולא חילה פי מא",
+            "start_char": 456,
+            "end_char": 515,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "קצאה אללה פאמא אלנחאס אלדי אנפדה מולאי צחבה אבו עלי פקד",
+            "start_char": 515,
+            "end_char": 570,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "וצל גמיעה וגא אלזרכואן [[עלי]] צריף עלי אלגרץ אחסן אללה גזאה",
+            "start_char": 570,
+            "end_char": 635,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ותולא כפאה דכר מולאי לחאל אלכארדאל ומולאי יתלטף בה",
+            "start_char": 635,
+            "end_char": 678,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ויסתכלץ לנא מנה ולו תהדדה מולאי",
+            "start_char": 678,
+            "end_char": 715,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "באן נחן נשמת פי עדן כל מן לנא ענדה שי ולא יופינא איאה פלעל יפזע מן אלשמאת",
+            "start_char": 715,
+            "end_char": 792,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "ואן לם ידפע לנא שי ואלא כתבנא כתאב שמאת חקיק [[ואנפדנאה]]",
+            "start_char": 792,
+            "end_char": 862,
+            "categories": [
+              "Legal Actions"
+            ]
+          },
+          {
+            "text": "ואנפדנאה אליה חתא יקף עלי סכאמה",
+            "start_char": 862,
+            "end_char": 903,
+            "categories": [
+              "Accounts"
+            ]
+          },
+          {
+            "text": "וקד וצל אלפופל אלאחמר ואלגפנתין אחסן אללה גזאה ויתפצל לא יזיד מולאי",
+            "start_char": 903,
+            "end_char": 973,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ינפד לי פופל אחמר לאנה מה הו גיד בל אן חצל פופל אביץ גדיד פלא",
+            "start_char": 973,
+            "end_char": 1045,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "באס ולא יזיד ינפד לי שין פיה שרכה מע אחד לא פופל",
+            "start_char": 1045,
+            "end_char": 1097,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "ולא בצאעה במשתרא אלא יכץ לכל אנסאן וחדה",
+            "start_char": 1097,
+            "end_char": 1143,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "וכל משתרא וחדה והדה אכבר צניעה תפעלהא מעי",
+            "start_char": 1143,
+            "end_char": 1192,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וקד אנפדת אליך אבריק מכסור וכרניב אלוזן סבעה ארטאל גיר רבע תפצל",
+            "start_char": 1192,
+            "end_char": 1257,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "אעמל לי אבריק בקדרה מן צפרה לאן צפרה צפר מליח יכון",
+            "start_char": 1257,
+            "end_char": 1310,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וזן אלאבריק ה' ארטאל כאלץ ואיצא אנפדת י''ח רטל ורבע",
+            "start_char": 1310,
+            "end_char": 1362,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "צפר קציב אצפר מליח וכמסה ארטאל רצאץ קלעי קאלב",
+            "start_char": 1362,
+            "end_char": 1407,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "כביר וקטעה רצאץ מצרי מחארה יציף מולאי אלקציב",
+            "start_char": 1407,
+            "end_char": 1439,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ואלרצאץ ומא יבקא מן עמל אלאבריק ויסתעמל לעבדה",
+            "start_char": 1439,
+            "end_char": 1476,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "[[מנארה]] קטעתין זירכואן לצחנין יכון כל זירכואן מן",
+            "start_char": 1476,
+            "end_char": 1507,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "סבעה עשרה פל עלי עמל אלזירכואן אלדי אנפדת לי יכונו שגל גייד ובאקי אלצפר גמיעה תעמלה לי",
+            "start_char": 1507,
+            "end_char": 1635,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "מנארה ותכון מנארה מליחה יכון עמודהא מתמן גליל ויכון קאעהא עלי שכץ חסכה אלשמעה בארגל",
+            "start_char": 1635,
+            "end_char": 1737,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ותאק ויכון עלי ראסהא סראג נחאס יכון לה טרפין לפתילתין יכון מרכב עלי טרף אלעמוד יטלע וינזל",
+            "start_char": 1737,
+            "end_char": 1899,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "[[אלעמוד]] אלעמוד קטעה ואלחסכה קטעה ואלסראג קטעה תכון ג קטע מפצלה ואן קדרו",
+            "start_char": 1899,
+            "end_char": 1970,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "יעמלו אלארגל בלואלב פלא באס פהו אחסן וקד כאן חי",
+            "start_char": 1970,
+            "end_char": 2003,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "אבו אלפרג אלגבילי עמל מנארה עלי הדה אלצפה פלעל תכון",
+            "start_char": 2003,
+            "end_char": 2070,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "מתלהא ואמא הדה אלסנה פלם יתפק לי אנפאד דהב ולא חריר",
+            "start_char": 2070,
+            "end_char": 2135,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "בל קד אנפדת סביב והו עשרין דינאר מלכיה דנאניר קדם דהב",
+            "start_char": 2135,
+            "end_char": 2202,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "טייב תפצל תכרג מנהא אגרה אלנחאס ואלבאקי תשתרי לי בה",
+            "start_char": 2202,
+            "end_char": 2268,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "קליל ביץ או היל ואן לם יתפק דלך כאן מא ופק אללה סבחאנה",
+            "start_char": 2268,
+            "end_char": 2333,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "וינפד לי מולאי אלגמיע פי אול מרכב יסאפר ותפצל תשתרי לי",
+            "start_char": 2333,
+            "end_char": 2401,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "גפנתין וסט אכבר מן אלדי אנפדת לי בקליל וגפנה כבירה תאכד",
+            "start_char": 2401,
+            "end_char": 2468,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "גחלתין מא סקאיתין וקד אנפדת אליך מאלא כטר לה ולא קימה",
+            "start_char": 2468,
+            "end_char": 2526,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "והו רבעיתין סכר אביץ וקנינה בשת מחכם מלהא זביב ופי",
+            "start_char": 2526,
+            "end_char": 2592,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "מזה רטל כחל מגרבי ורטל קצט ורטל זאג ונצף רטל מרתך",
+            "start_char": 2592,
+            "end_char": 2655,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "וגֹ אואק עלך וכמסה דסות ורק מצרי ואיצא פי זניביל סבעה",
+            "start_char": 2655,
+            "end_char": 2722,
+            "categories": [
+              "Information"
+            ]
+          },
+          {
+            "text": "קואלב גבן חלאל אלכל ה שכוץ ואיצא אלנחאס אלדי לי כלה",
+            "start_char": 2722,
+            "end_char": 2787,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "פי כישה צאר סתה שכוץ וכתבת עלי //כל// שכץ אברהם יגו",
+            "start_char": 2787,
+            "end_char": 2859,
+            "categories": [
+              "Behavior of Associates"
+            ]
+          },
+          {
+            "text": "תוגיה יוסף וקד אנפדת אלגמיע ואלעשרין אלדינאר צחבה אלשיך",
+            "start_char": 2859,
+            "end_char": 2921,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "אחמד אלרבאן בן אבו אלפרג ואיצא פי כריטה פוטתין כתאן",
+            "start_char": 2921,
+            "end_char": 2977,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "ללאולאד ושבכתין בעצפר תפצל [[ותוצלהם]] ותקבץ דלך",
+            "start_char": 2977,
+            "end_char": 3034,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "ותוצלהם לאלשיך אבו אלסרור בן כלוף אלטלחי וכתאבה איצא ועלי אלכריטה",
+            "start_char": 3034,
+            "end_char": 3110,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "אסמה ודכר סידי באן פצל לי מן עאם //אול// נחאס לעמל טסתין לשרב",
+            "start_char": 3110,
+            "end_char": 3184,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "אלמא פינעם באנפאדהם צחבה אלנחאס צחת אלשכוץ סבעה מע כריטה",
+            "start_char": 3184,
+            "end_char": 3248,
+            "categories": [
+              "Transactions"
+            ]
+          },
+          {
+            "text": "אבו אלסרור אלטלחי יכץ מולאי עזיז נפסה אפצל אלסלאם ושלום לך",
+            "start_char": 3248,
+            "end_char": 3316,
+            "categories": [
+              "Correspondence"
+            ]
+          },
+          {
+            "text": "לכבוד אדוני ואור עיני וענק גרוני מרור אה[בך] ומ[ת]פאר בזכרך",
+            "start_char": 3316,
+            "end_char": 3379,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          },
+          {
+            "text": "אברהם החכם והנבון בן כגק רב פרחיה נע הטוב יוסף בן אברהם יגו נע",
+            "start_char": 3379,
+            "end_char": 3449,
+            "categories": [
+              "Personal, Familial, Communal News"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
