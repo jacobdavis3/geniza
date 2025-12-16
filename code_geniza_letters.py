@@ -564,7 +564,7 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="4726_gpt.json",
+        default="nahray_101-200.json",
         help="Output JSON file path (default: geniza_codings.json)"
     )
     
