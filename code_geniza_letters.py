@@ -564,7 +564,7 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="nahray_AND_business_claude35.json",
+        default="ib_claude35.json",
         help="Output JSON file path (default: geniza_codings.json)"
     )
     
